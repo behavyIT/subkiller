@@ -1,0 +1,3479 @@
+respondent_id,service,category,price_month_eur,billing_day,used_last_30d
+1,Спортзал,Спорт,35.0,13,True
+1,Dropbox,Облако,11.99,2,True
+1,Discord Nitro,Соцсети,9.99,28,True
+1,ChatGPT Plus,AI-сервисы,20.0,22,True
+1,Prime Video,Видео,5.99,6,True
+1,iCloud+,Облако,2.99,16,True
+1,Netflix,Видео,12.99,5,True
+1,PlayStation Plus,Игры,8.99,11,True
+2,Discord Nitro,Соцсети,5.0,23,False
+2,Telegram Premium,Соцсети,4.99,23,True
+2,ChatGPT Plus,AI-сервисы,20.0,15,True
+2,Spotify,Музыка,5.5,16,True
+2,PlayStation Plus,Игры,8.99,24,True
+2,YouTube Premium,Видео,11.99,16,True
+3,Spotify,Музыка,10.99,7,True
+3,Xbox Game Pass,Игры,14.99,9,True
+3,iCloud+,Облако,1.5,5,True
+4,YouTube Premium,Видео,11.99,20,True
+4,Bolt Food+,Доставка,5.99,21,True
+4,Notion Plus,Софт,4.75,8,True
+4,PlayStation Plus,Игры,8.99,21,True
+4,Spotify,Музыка,10.99,9,True
+5,GitHub Copilot,AI-сервисы,5.0,17,True
+5,Spotify,Музыка,5.5,28,True
+5,Disney+,Видео,9.99,17,True
+6,ChatGPT Plus,AI-сервисы,10.0,14,True
+6,Netflix,Видео,6.5,21,True
+6,Discord Nitro,Соцсети,9.99,21,False
+6,Notion Plus,Софт,9.5,7,True
+6,YouTube Premium,Видео,11.99,2,True
+6,iCloud+,Облако,2.99,27,True
+7,Spotify,Музыка,10.99,2,True
+7,Telegram Premium,Соцсети,4.99,24,True
+7,Xbox Game Pass,Игры,14.99,11,False
+7,Apple Music,Музыка,10.99,17,True
+7,YouTube Premium,Видео,11.99,8,False
+7,Duolingo Super,Обучение,12.99,9,True
+7,Спортзал,Спорт,35.0,14,True
+7,Prime Video,Видео,5.99,15,False
+8,YouTube Premium,Видео,11.99,15,True
+8,Спортзал,Спорт,35.0,17,False
+8,ChatGPT Plus,AI-сервисы,20.0,16,False
+8,Spotify,Музыка,5.5,1,True
+8,Midjourney,AI-сервисы,10.0,28,True
+8,Xbox Game Pass,Игры,14.99,18,True
+9,Claude Pro,AI-сервисы,18.0,26,True
+9,Prime Video,Видео,5.99,5,False
+9,Duolingo Super,Обучение,6.5,13,False
+9,Discord Nitro,Соцсети,5.0,4,False
+9,YouTube Premium,Видео,6.0,13,False
+9,Netflix,Видео,12.99,17,True
+9,Google One,Облако,1.99,21,True
+9,Spotify,Музыка,10.99,25,False
+10,Спортзал,Спорт,35.0,11,True
+10,YouTube Premium,Видео,11.99,18,True
+10,Adobe CC,Софт,24.99,18,False
+11,Apple Music,Музыка,5.5,18,True
+11,Spotify,Музыка,10.99,22,True
+11,Deezer,Музыка,10.99,10,True
+11,Duolingo Super,Обучение,12.99,16,True
+12,Спортзал,Спорт,35.0,28,True
+12,YouTube Premium,Видео,11.99,23,True
+12,Strava,Спорт,7.99,21,False
+12,Telegram Premium,Соцсети,4.99,17,False
+12,Google One,Облако,1.99,5,True
+13,Xbox Game Pass,Игры,14.99,23,True
+13,ChatGPT Plus,AI-сервисы,20.0,11,True
+13,Telegram Premium,Соцсети,4.99,27,True
+13,Spotify,Музыка,10.99,5,True
+13,Notion Plus,Софт,9.5,21,True
+13,Coursera Plus,Обучение,49.0,11,True
+14,Google One,Облако,1.0,28,True
+14,PlayStation Plus,Игры,8.99,15,True
+14,Netflix,Видео,12.99,26,False
+14,Claude Pro,AI-сервисы,18.0,20,True
+14,Discord Nitro,Соцсети,9.99,8,False
+15,Netflix,Видео,12.99,5,False
+15,Google One,Облако,1.99,4,True
+15,Telegram Premium,Соцсети,4.99,22,True
+15,Spotify,Музыка,5.5,4,True
+16,Google One,Облако,1.0,17,True
+16,Netflix,Видео,12.99,13,True
+16,Microsoft 365,Софт,7.0,7,False
+16,Nintendo Online,Игры,3.99,27,True
+16,Disney+,Видео,9.99,13,True
+16,YouTube Premium,Видео,6.0,27,True
+17,Google One,Облако,1.0,9,True
+17,Spotify,Музыка,10.99,16,True
+17,Netflix,Видео,12.99,19,True
+17,ChatGPT Plus,AI-сервисы,20.0,6,True
+17,Claude Pro,AI-сервисы,18.0,13,True
+18,Adobe CC,Софт,24.99,15,False
+18,Netflix,Видео,12.99,12,True
+18,Spotify,Музыка,5.5,11,True
+18,Disney+,Видео,5.0,15,True
+18,Claude Pro,AI-сервисы,18.0,27,True
+19,Discord Nitro,Соцсети,9.99,1,True
+19,Wolt+,Доставка,4.0,24,True
+19,iCloud+,Облако,1.5,11,True
+20,Prime Video,Видео,5.99,2,False
+20,Adobe CC,Софт,24.99,21,True
+20,Dropbox,Облако,11.99,16,True
+20,Xbox Game Pass,Игры,14.99,10,True
+20,Telegram Premium,Соцсети,4.99,14,True
+21,HBO Max,Видео,9.99,10,True
+21,Netflix,Видео,12.99,20,True
+21,Спортзал,Спорт,35.0,28,True
+21,ChatGPT Plus,AI-сервисы,20.0,28,True
+21,Spotify,Музыка,10.99,22,True
+21,Google One,Облако,1.99,8,True
+21,Claude Pro,AI-сервисы,18.0,27,True
+22,Netflix,Видео,12.99,19,True
+22,Telegram Premium,Соцсети,2.5,16,True
+22,Midjourney,AI-сервисы,10.0,23,True
+22,Wolt+,Доставка,4.0,27,True
+22,Claude Pro,AI-сервисы,9.0,2,True
+22,Bolt Food+,Доставка,5.99,1,True
+23,iCloud+,Облако,2.99,22,False
+24,Netflix,Видео,6.5,6,True
+24,Spotify,Музыка,10.99,28,True
+24,Duolingo Super,Обучение,12.99,7,True
+24,Telegram Premium,Соцсети,2.5,14,True
+24,Wolt+,Доставка,4.0,16,False
+24,Claude Pro,AI-сервисы,18.0,1,True
+25,Prime Video,Видео,5.99,8,True
+25,Spotify,Музыка,10.99,8,True
+25,Disney+,Видео,5.0,23,True
+25,Microsoft 365,Софт,3.5,9,True
+25,iCloud+,Облако,2.99,27,True
+25,Telegram Premium,Соцсети,2.5,21,True
+25,Claude Pro,AI-сервисы,9.0,3,True
+25,Midjourney,AI-сервисы,5.0,8,True
+26,YouTube Premium,Видео,11.99,16,True
+26,Microsoft 365,Софт,7.0,22,True
+26,Netflix,Видео,12.99,26,True
+26,GitHub Copilot,AI-сервисы,10.0,14,True
+26,Midjourney,AI-сервисы,10.0,14,True
+27,Netflix,Видео,12.99,3,True
+27,YouTube Premium,Видео,11.99,16,True
+28,ChatGPT Plus,AI-сервисы,20.0,24,False
+28,Spotify,Музыка,10.99,19,True
+28,Netflix,Видео,12.99,20,False
+28,Apple Music,Музыка,10.99,4,True
+28,Disney+,Видео,9.99,28,False
+28,Duolingo Super,Обучение,12.99,16,False
+28,Nintendo Online,Игры,3.99,28,True
+28,iCloud+,Облако,2.99,17,True
+28,Спортзал,Спорт,35.0,26,True
+28,PlayStation Plus,Игры,8.99,5,True
+29,Google One,Облако,1.99,8,True
+29,iCloud+,Облако,2.99,22,True
+29,ChatGPT Plus,AI-сервисы,20.0,26,True
+29,PlayStation Plus,Игры,8.99,15,False
+29,Duolingo Super,Обучение,12.99,11,True
+30,Claude Pro,AI-сервисы,18.0,27,True
+30,Duolingo Super,Обучение,12.99,16,False
+30,Microsoft 365,Софт,7.0,20,True
+30,Deezer,Музыка,10.99,25,True
+30,iCloud+,Облако,2.99,1,True
+30,Nintendo Online,Игры,3.99,6,True
+31,ChatGPT Plus,AI-сервисы,20.0,12,True
+31,YouTube Premium,Видео,11.99,14,True
+31,Disney+,Видео,9.99,6,False
+31,PlayStation Plus,Игры,8.99,2,True
+31,Spotify,Музыка,10.99,14,True
+31,Strava,Спорт,7.99,1,False
+31,Prime Video,Видео,5.99,14,True
+31,Discord Nitro,Соцсети,9.99,19,True
+32,Adobe CC,Софт,24.99,4,True
+32,Google One,Облако,1.99,22,True
+32,iCloud+,Облако,2.99,17,True
+32,Disney+,Видео,9.99,27,False
+32,Spotify,Музыка,10.99,21,True
+32,Telegram Premium,Соцсети,4.99,3,True
+32,Apple Music,Музыка,10.99,18,True
+32,ChatGPT Plus,AI-сервисы,20.0,6,True
+33,iCloud+,Облако,2.99,10,True
+33,ChatGPT Plus,AI-сервисы,20.0,11,False
+33,YouTube Premium,Видео,11.99,4,True
+33,Strava,Спорт,7.99,26,False
+33,Midjourney,AI-сервисы,10.0,18,True
+33,HBO Max,Видео,9.99,15,True
+33,Dropbox,Облако,11.99,15,True
+33,Prime Video,Видео,5.99,4,True
+34,Telegram Premium,Соцсети,4.99,16,False
+34,Prime Video,Видео,3.0,28,False
+34,Спортзал,Спорт,35.0,13,False
+34,ChatGPT Plus,AI-сервисы,20.0,5,True
+35,ChatGPT Plus,AI-сервисы,20.0,17,True
+35,Microsoft 365,Софт,7.0,21,True
+35,Duolingo Super,Обучение,12.99,11,True
+35,Wolt+,Доставка,7.99,26,True
+35,iCloud+,Облако,2.99,16,True
+35,Xbox Game Pass,Игры,14.99,21,True
+36,Xbox Game Pass,Игры,7.5,27,True
+36,Netflix,Видео,6.5,25,True
+36,Spotify,Музыка,5.5,22,True
+37,Netflix,Видео,12.99,23,True
+37,ChatGPT Plus,AI-сервисы,10.0,10,True
+37,Microsoft 365,Софт,7.0,27,True
+37,Google One,Облако,1.99,28,True
+37,Спортзал,Спорт,35.0,18,True
+37,Adobe CC,Софт,12.5,13,True
+37,Spotify,Музыка,5.5,13,True
+37,iCloud+,Облако,2.99,17,True
+38,Wolt+,Доставка,7.99,23,True
+38,HBO Max,Видео,9.99,27,False
+38,Disney+,Видео,9.99,4,True
+38,ChatGPT Plus,AI-сервисы,20.0,13,True
+39,Claude Pro,AI-сервисы,18.0,21,True
+39,ChatGPT Plus,AI-сервисы,20.0,23,True
+39,Netflix,Видео,6.5,26,True
+39,Xbox Game Pass,Игры,7.5,3,True
+39,Apple Music,Музыка,5.5,7,False
+39,Telegram Premium,Соцсети,4.99,1,True
+39,Discord Nitro,Соцсети,5.0,21,True
+39,GitHub Copilot,AI-сервисы,5.0,24,False
+40,HBO Max,Видео,9.99,12,False
+40,Coursera Plus,Обучение,49.0,26,True
+40,YouTube Premium,Видео,11.99,12,True
+40,Netflix,Видео,12.99,18,False
+40,Disney+,Видео,9.99,7,True
+40,Discord Nitro,Соцсети,9.99,21,True
+40,iCloud+,Облако,2.99,16,True
+41,iCloud+,Облако,1.5,12,True
+41,PlayStation Plus,Игры,8.99,24,True
+41,Netflix,Видео,6.5,27,False
+41,Prime Video,Видео,5.99,9,False
+41,Notion Plus,Софт,4.75,20,False
+41,Duolingo Super,Обучение,6.5,15,True
+42,YouTube Premium,Видео,11.99,6,False
+42,Google One,Облако,1.99,12,True
+42,Adobe CC,Софт,24.99,26,True
+42,Coursera Plus,Обучение,49.0,5,True
+42,Discord Nitro,Соцсети,9.99,27,True
+42,iCloud+,Облако,2.99,11,True
+43,Xbox Game Pass,Игры,14.99,17,True
+43,iCloud+,Облако,2.99,15,True
+43,Spotify,Музыка,10.99,24,True
+43,Deezer,Музыка,10.99,3,True
+43,YouTube Premium,Видео,11.99,19,False
+43,Disney+,Видео,9.99,24,True
+43,Duolingo Super,Обучение,12.99,11,True
+43,ChatGPT Plus,AI-сервисы,20.0,28,True
+43,Prime Video,Видео,5.99,1,False
+43,Telegram Premium,Соцсети,4.99,26,True
+44,Telegram Premium,Соцсети,4.99,28,True
+45,Discord Nitro,Соцсети,9.99,2,True
+45,Midjourney,AI-сервисы,10.0,8,True
+45,iCloud+,Облако,1.5,15,True
+45,Wolt+,Доставка,7.99,13,False
+45,Google One,Облако,1.99,23,True
+45,ChatGPT Plus,AI-сервисы,10.0,18,True
+45,Apple Music,Музыка,10.99,13,True
+45,Netflix,Видео,6.5,4,True
+46,Nintendo Online,Игры,3.99,3,True
+46,Spotify,Музыка,10.99,25,True
+46,Notion Plus,Софт,9.5,16,True
+46,Netflix,Видео,12.99,28,True
+46,Спортзал,Спорт,35.0,2,True
+46,Adobe CC,Софт,24.99,23,True
+46,YouTube Premium,Видео,11.99,6,True
+46,Discord Nitro,Соцсети,9.99,6,True
+46,Prime Video,Видео,5.99,3,True
+47,Netflix,Видео,12.99,4,True
+47,Telegram Premium,Соцсети,4.99,16,True
+47,ChatGPT Plus,AI-сервисы,20.0,2,False
+47,Спортзал,Спорт,35.0,5,False
+47,Google One,Облако,1.99,6,True
+47,Disney+,Видео,9.99,8,True
+47,HBO Max,Видео,9.99,16,True
+47,Bolt Food+,Доставка,5.99,15,False
+47,Prime Video,Видео,5.99,23,True
+47,iCloud+,Облако,2.99,18,True
+47,Notion Plus,Софт,9.5,27,True
+48,Prime Video,Видео,3.0,22,True
+48,Duolingo Super,Обучение,12.99,27,True
+48,Disney+,Видео,9.99,13,True
+48,Спортзал,Спорт,35.0,28,True
+48,HBO Max,Видео,9.99,2,True
+49,Xbox Game Pass,Игры,14.99,14,True
+49,Strava,Спорт,7.99,11,False
+49,Apple Music,Музыка,10.99,6,True
+49,ChatGPT Plus,AI-сервисы,20.0,7,True
+49,Discord Nitro,Соцсети,9.99,26,True
+49,GitHub Copilot,AI-сервисы,10.0,3,False
+49,Duolingo Super,Обучение,12.99,27,False
+49,Claude Pro,AI-сервисы,18.0,12,True
+49,Prime Video,Видео,5.99,9,True
+50,iCloud+,Облако,2.99,14,True
+50,Nintendo Online,Игры,3.99,6,True
+50,Netflix,Видео,12.99,13,True
+51,Spotify,Музыка,10.99,22,True
+51,Apple Music,Музыка,10.99,1,True
+51,Prime Video,Видео,5.99,25,True
+52,Prime Video,Видео,5.99,1,True
+52,Telegram Premium,Соцсети,4.99,13,True
+52,Adobe CC,Софт,24.99,10,True
+52,Wolt+,Доставка,4.0,21,False
+52,Microsoft 365,Софт,7.0,2,True
+52,Spotify,Музыка,10.99,19,True
+53,ChatGPT Plus,AI-сервисы,10.0,11,True
+53,Spotify,Музыка,5.5,28,True
+53,Telegram Premium,Соцсети,4.99,22,True
+53,Deezer,Музыка,10.99,3,True
+53,Discord Nitro,Соцсети,9.99,5,True
+53,Disney+,Видео,9.99,6,True
+54,HBO Max,Видео,9.99,12,True
+54,Claude Pro,AI-сервисы,9.0,8,True
+54,Spotify,Музыка,10.99,4,True
+54,Telegram Premium,Соцсети,2.5,18,True
+54,Спортзал,Спорт,17.5,12,False
+55,Telegram Premium,Соцсети,4.99,24,True
+55,Спортзал,Спорт,35.0,5,True
+55,Duolingo Super,Обучение,12.99,21,False
+55,ChatGPT Plus,AI-сервисы,20.0,28,False
+55,Microsoft 365,Софт,7.0,7,True
+55,iCloud+,Облако,2.99,15,True
+56,ChatGPT Plus,AI-сервисы,20.0,17,True
+56,Microsoft 365,Софт,7.0,14,False
+56,Spotify,Музыка,10.99,23,True
+56,Telegram Premium,Соцсети,4.99,25,False
+56,Deezer,Музыка,10.99,12,True
+56,Bolt Food+,Доставка,5.99,27,False
+56,Google One,Облако,1.99,16,True
+56,Xbox Game Pass,Игры,14.99,8,True
+56,Discord Nitro,Соцсети,9.99,21,True
+56,Netflix,Видео,12.99,25,False
+56,YouTube Premium,Видео,11.99,12,True
+56,Nintendo Online,Игры,3.99,22,True
+57,iCloud+,Облако,1.5,21,True
+57,YouTube Premium,Видео,6.0,2,False
+57,Bolt Food+,Доставка,3.0,28,False
+57,Notion Plus,Софт,9.5,3,True
+57,Спортзал,Спорт,35.0,22,True
+57,Spotify,Музыка,10.99,27,True
+57,Disney+,Видео,9.99,20,True
+58,Prime Video,Видео,5.99,7,True
+58,PlayStation Plus,Игры,8.99,10,False
+58,Notion Plus,Софт,9.5,20,True
+58,Spotify,Музыка,5.5,2,True
+58,iCloud+,Облако,1.5,12,True
+58,Google One,Облако,1.99,22,True
+59,iCloud+,Облако,2.99,12,True
+59,Midjourney,AI-сервисы,5.0,7,False
+59,Спортзал,Спорт,35.0,16,True
+59,GitHub Copilot,AI-сервисы,5.0,21,True
+59,Claude Pro,AI-сервисы,9.0,28,True
+59,Bolt Food+,Доставка,5.99,5,True
+60,Dropbox,Облако,11.99,15,True
+60,Microsoft 365,Софт,7.0,2,True
+60,Спортзал,Спорт,35.0,9,True
+60,HBO Max,Видео,9.99,5,True
+60,iCloud+,Облако,2.99,15,True
+60,Discord Nitro,Соцсети,9.99,20,True
+60,Spotify,Музыка,10.99,21,True
+60,ChatGPT Plus,AI-сервисы,20.0,15,True
+60,Wolt+,Доставка,7.99,4,False
+60,Adobe CC,Софт,24.99,28,True
+61,Netflix,Видео,6.5,7,True
+61,iCloud+,Облако,2.99,13,True
+61,Microsoft 365,Софт,7.0,4,True
+62,Netflix,Видео,12.99,25,False
+62,Apple Music,Музыка,10.99,14,True
+62,Nintendo Online,Игры,2.0,17,True
+62,ChatGPT Plus,AI-сервисы,20.0,13,False
+62,Dropbox,Облако,11.99,13,True
+62,Google One,Облако,1.99,6,False
+62,Telegram Premium,Соцсети,4.99,15,True
+62,Microsoft 365,Софт,7.0,1,True
+63,Claude Pro,AI-сервисы,18.0,18,True
+63,iCloud+,Облако,2.99,17,True
+63,Spotify,Музыка,10.99,27,True
+63,Bolt Food+,Доставка,5.99,27,False
+63,Duolingo Super,Обучение,12.99,25,False
+63,Apple Music,Музыка,10.99,22,True
+63,Disney+,Видео,9.99,7,True
+64,Spotify,Музыка,10.99,3,True
+64,Adobe CC,Софт,24.99,10,False
+64,iCloud+,Облако,2.99,25,True
+64,Microsoft 365,Софт,3.5,4,True
+65,Apple Music,Музыка,5.5,13,False
+65,Xbox Game Pass,Игры,14.99,7,True
+66,Google One,Облако,1.0,15,True
+66,Telegram Premium,Соцсети,4.99,23,True
+66,Spotify,Музыка,10.99,10,False
+66,Спортзал,Спорт,35.0,15,True
+66,Wolt+,Доставка,7.99,10,True
+67,GitHub Copilot,AI-сервисы,10.0,15,True
+67,Microsoft 365,Софт,7.0,20,True
+67,ChatGPT Plus,AI-сервисы,10.0,9,True
+67,Spotify,Музыка,5.5,13,True
+67,Adobe CC,Софт,24.99,6,True
+68,GitHub Copilot,AI-сервисы,5.0,24,True
+68,YouTube Premium,Видео,11.99,5,True
+68,Prime Video,Видео,5.99,20,True
+68,Duolingo Super,Обучение,12.99,4,False
+69,Spotify,Музыка,10.99,12,True
+69,Netflix,Видео,12.99,11,True
+69,Prime Video,Видео,5.99,10,True
+70,Wolt+,Доставка,7.99,24,True
+70,Telegram Premium,Соцсети,4.99,12,True
+70,YouTube Premium,Видео,11.99,25,True
+70,Xbox Game Pass,Игры,14.99,26,True
+70,Netflix,Видео,12.99,21,True
+70,Google One,Облако,1.99,15,True
+70,Microsoft 365,Софт,7.0,11,True
+70,Spotify,Музыка,10.99,15,True
+70,ChatGPT Plus,AI-сервисы,20.0,18,True
+70,Disney+,Видео,9.99,16,True
+70,iCloud+,Облако,2.99,28,True
+70,Deezer,Музыка,10.99,8,True
+71,Netflix,Видео,6.5,5,True
+71,Google One,Облако,1.99,8,True
+71,Discord Nitro,Соцсети,9.99,10,True
+71,iCloud+,Облако,2.99,20,True
+71,Spotify,Музыка,10.99,3,True
+71,Duolingo Super,Обучение,12.99,22,True
+72,Nintendo Online,Игры,2.0,25,True
+72,Netflix,Видео,12.99,21,False
+72,Xbox Game Pass,Игры,14.99,25,True
+72,Spotify,Музыка,5.5,16,True
+72,Duolingo Super,Обучение,12.99,19,False
+73,ChatGPT Plus,AI-сервисы,20.0,17,True
+73,PlayStation Plus,Игры,8.99,18,True
+73,Wolt+,Доставка,7.99,2,True
+73,Claude Pro,AI-сервисы,18.0,2,True
+73,YouTube Premium,Видео,11.99,14,True
+73,iCloud+,Облако,1.5,12,True
+73,Coursera Plus,Обучение,49.0,20,False
+73,Google One,Облако,1.99,3,True
+74,Netflix,Видео,12.99,9,True
+74,Duolingo Super,Обучение,12.99,3,True
+74,Спортзал,Спорт,35.0,10,True
+75,Спортзал,Спорт,17.5,6,True
+75,Netflix,Видео,6.5,4,False
+75,ChatGPT Plus,AI-сервисы,20.0,17,True
+75,Disney+,Видео,9.99,9,True
+76,Duolingo Super,Обучение,12.99,28,False
+76,Spotify,Музыка,10.99,25,True
+77,Claude Pro,AI-сервисы,18.0,12,True
+77,Microsoft 365,Софт,7.0,20,True
+77,Xbox Game Pass,Игры,7.5,9,True
+77,PlayStation Plus,Игры,4.5,6,True
+77,Spotify,Музыка,5.5,17,True
+77,ChatGPT Plus,AI-сервисы,20.0,13,True
+78,Google One,Облако,1.99,7,True
+78,Wolt+,Доставка,7.99,23,True
+78,Spotify,Музыка,10.99,15,True
+78,HBO Max,Видео,5.0,16,True
+78,YouTube Premium,Видео,11.99,26,True
+79,HBO Max,Видео,9.99,3,True
+79,Telegram Premium,Соцсети,4.99,2,True
+79,YouTube Premium,Видео,11.99,25,True
+80,Midjourney,AI-сервисы,10.0,23,True
+80,iCloud+,Облако,2.99,18,True
+80,Netflix,Видео,6.5,24,True
+80,ChatGPT Plus,AI-сервисы,20.0,15,True
+80,Duolingo Super,Обучение,6.5,6,True
+80,Telegram Premium,Соцсети,4.99,7,True
+81,Apple Music,Музыка,10.99,21,True
+81,Спортзал,Спорт,35.0,2,False
+81,GitHub Copilot,AI-сервисы,10.0,23,True
+81,Prime Video,Видео,5.99,23,True
+82,PlayStation Plus,Игры,8.99,19,True
+82,Спортзал,Спорт,35.0,27,True
+82,Discord Nitro,Соцсети,9.99,25,True
+82,Spotify,Музыка,10.99,13,True
+82,Netflix,Видео,12.99,8,False
+83,Notion Plus,Софт,9.5,15,True
+83,Disney+,Видео,5.0,20,True
+83,Discord Nitro,Соцсети,9.99,5,True
+83,Google One,Облако,1.0,11,True
+84,Spotify,Музыка,10.99,5,False
+84,Claude Pro,AI-сервисы,18.0,13,False
+84,Netflix,Видео,12.99,19,True
+84,Google One,Облако,1.99,19,False
+84,PlayStation Plus,Игры,8.99,16,True
+84,Duolingo Super,Обучение,12.99,11,True
+84,iCloud+,Облако,2.99,16,True
+84,ChatGPT Plus,AI-сервисы,20.0,23,True
+85,Telegram Premium,Соцсети,2.5,14,True
+85,Microsoft 365,Софт,7.0,3,True
+85,Xbox Game Pass,Игры,14.99,24,True
+85,YouTube Premium,Видео,11.99,19,True
+86,Спортзал,Спорт,35.0,10,True
+86,iCloud+,Облако,2.99,20,True
+86,ChatGPT Plus,AI-сервисы,20.0,21,True
+86,Spotify,Музыка,10.99,9,True
+86,Prime Video,Видео,5.99,25,True
+86,Netflix,Видео,12.99,10,True
+86,GitHub Copilot,AI-сервисы,10.0,21,True
+86,Microsoft 365,Софт,7.0,5,True
+86,Google One,Облако,1.99,24,True
+86,Dropbox,Облако,11.99,7,True
+86,Xbox Game Pass,Игры,14.99,23,True
+86,HBO Max,Видео,9.99,26,True
+87,Claude Pro,AI-сервисы,18.0,2,True
+87,Google One,Облако,1.99,10,True
+87,ChatGPT Plus,AI-сервисы,20.0,8,True
+87,iCloud+,Облако,2.99,5,True
+87,GitHub Copilot,AI-сервисы,10.0,22,True
+87,Apple Music,Музыка,10.99,21,True
+87,Microsoft 365,Софт,7.0,5,True
+88,iCloud+,Облако,2.99,10,True
+88,ChatGPT Plus,AI-сервисы,20.0,5,True
+88,Discord Nitro,Соцсети,9.99,3,True
+88,Nintendo Online,Игры,3.99,7,True
+88,Claude Pro,AI-сервисы,18.0,1,False
+88,Microsoft 365,Софт,7.0,25,True
+89,ChatGPT Plus,AI-сервисы,20.0,23,True
+89,Microsoft 365,Софт,7.0,2,True
+89,Netflix,Видео,12.99,15,True
+89,Spotify,Музыка,5.5,15,True
+89,iCloud+,Облако,2.99,5,True
+90,Спортзал,Спорт,35.0,7,True
+90,YouTube Premium,Видео,6.0,17,True
+90,Spotify,Музыка,10.99,10,True
+90,Netflix,Видео,6.5,14,False
+90,ChatGPT Plus,AI-сервисы,10.0,4,True
+90,PlayStation Plus,Игры,8.99,22,True
+90,Adobe CC,Софт,24.99,20,True
+90,Wolt+,Доставка,7.99,16,True
+90,Prime Video,Видео,3.0,24,True
+91,Prime Video,Видео,3.0,20,True
+91,Spotify,Музыка,10.99,13,False
+91,Duolingo Super,Обучение,12.99,1,False
+91,HBO Max,Видео,9.99,4,True
+91,Disney+,Видео,5.0,26,True
+92,Spotify,Музыка,5.5,7,True
+92,Apple Music,Музыка,10.99,18,True
+92,Netflix,Видео,12.99,11,True
+92,Telegram Premium,Соцсети,4.99,8,True
+92,ChatGPT Plus,AI-сервисы,20.0,27,True
+92,Prime Video,Видео,5.99,28,True
+92,HBO Max,Видео,9.99,12,True
+92,Nintendo Online,Игры,2.0,24,True
+93,YouTube Premium,Видео,6.0,10,True
+93,Prime Video,Видео,3.0,15,False
+94,Wolt+,Доставка,4.0,1,True
+94,Google One,Облако,1.0,16,True
+94,Bolt Food+,Доставка,5.99,12,True
+95,Adobe CC,Софт,24.99,2,True
+95,Netflix,Видео,12.99,10,True
+95,Nintendo Online,Игры,3.99,20,True
+95,Wolt+,Доставка,7.99,26,False
+95,Disney+,Видео,9.99,16,True
+95,PlayStation Plus,Игры,8.99,23,True
+95,Google One,Облако,1.99,14,True
+95,Xbox Game Pass,Игры,14.99,26,False
+96,Telegram Premium,Соцсети,2.5,5,True
+96,Disney+,Видео,9.99,23,False
+96,Notion Plus,Софт,9.5,26,True
+96,iCloud+,Облако,2.99,16,True
+96,Spotify,Музыка,10.99,8,True
+96,Netflix,Видео,12.99,14,False
+97,Prime Video,Видео,5.99,21,True
+97,Netflix,Видео,12.99,4,True
+97,iCloud+,Облако,2.99,9,True
+97,Disney+,Видео,9.99,2,True
+97,Google One,Облако,1.99,14,True
+98,Netflix,Видео,12.99,7,True
+98,Coursera Plus,Обучение,24.5,22,True
+98,Spotify,Музыка,5.5,27,True
+98,Microsoft 365,Софт,3.5,10,True
+99,Prime Video,Видео,3.0,26,True
+99,Wolt+,Доставка,7.99,11,True
+99,Nintendo Online,Игры,3.99,6,True
+99,Google One,Облако,1.99,28,True
+99,Netflix,Видео,12.99,6,True
+100,Google One,Облако,1.99,2,True
+100,ChatGPT Plus,AI-сервисы,20.0,13,True
+100,Prime Video,Видео,5.99,9,True
+101,Xbox Game Pass,Игры,14.99,23,True
+101,Telegram Premium,Соцсети,4.99,26,True
+101,Spotify,Музыка,10.99,5,True
+101,HBO Max,Видео,9.99,24,True
+101,Midjourney,AI-сервисы,10.0,26,True
+102,Spotify,Музыка,10.99,23,True
+102,Nintendo Online,Игры,3.99,13,False
+102,Xbox Game Pass,Игры,14.99,8,False
+102,ChatGPT Plus,AI-сервисы,20.0,16,False
+102,Google One,Облако,1.99,21,True
+102,Disney+,Видео,9.99,27,True
+102,PlayStation Plus,Игры,8.99,16,True
+102,YouTube Premium,Видео,11.99,3,False
+102,Apple Music,Музыка,10.99,15,True
+103,Duolingo Super,Обучение,12.99,23,False
+103,Microsoft 365,Софт,3.5,4,True
+103,HBO Max,Видео,5.0,22,False
+103,Netflix,Видео,12.99,26,True
+104,Microsoft 365,Софт,7.0,3,False
+104,Apple Music,Музыка,10.99,5,True
+104,Netflix,Видео,12.99,25,False
+104,GitHub Copilot,AI-сервисы,10.0,9,True
+104,Спортзал,Спорт,35.0,6,False
+104,Spotify,Музыка,10.99,14,True
+104,Disney+,Видео,9.99,20,True
+104,YouTube Premium,Видео,11.99,8,True
+105,Netflix,Видео,12.99,28,True
+105,YouTube Premium,Видео,11.99,17,False
+105,Apple Music,Музыка,10.99,8,True
+105,Coursera Plus,Обучение,49.0,10,False
+106,iCloud+,Облако,2.99,20,True
+106,YouTube Premium,Видео,11.99,20,True
+106,Disney+,Видео,9.99,26,True
+106,Strava,Спорт,7.99,25,False
+106,Spotify,Музыка,10.99,16,True
+106,Apple Music,Музыка,10.99,18,True
+106,ChatGPT Plus,AI-сервисы,20.0,25,True
+107,Netflix,Видео,12.99,23,True
+107,PlayStation Plus,Игры,4.5,10,True
+107,GitHub Copilot,AI-сервисы,5.0,27,True
+108,Spotify,Музыка,10.99,14,True
+108,YouTube Premium,Видео,11.99,2,True
+108,HBO Max,Видео,9.99,3,True
+108,Dropbox,Облако,11.99,18,True
+109,Wolt+,Доставка,7.99,23,True
+109,Duolingo Super,Обучение,12.99,27,True
+109,Netflix,Видео,12.99,13,True
+109,Google One,Облако,1.99,9,True
+109,Disney+,Видео,9.99,25,True
+110,Prime Video,Видео,5.99,24,True
+110,Apple Music,Музыка,10.99,23,True
+110,iCloud+,Облако,2.99,10,True
+110,Microsoft 365,Софт,7.0,11,False
+110,Spotify,Музыка,10.99,26,True
+110,Discord Nitro,Соцсети,9.99,2,True
+110,YouTube Premium,Видео,11.99,9,True
+110,Netflix,Видео,12.99,10,True
+110,Google One,Облако,1.99,16,True
+111,ChatGPT Plus,AI-сервисы,10.0,21,True
+111,Microsoft 365,Софт,3.5,12,True
+111,Netflix,Видео,12.99,1,True
+111,Adobe CC,Софт,24.99,9,True
+112,Duolingo Super,Обучение,12.99,13,True
+112,Спортзал,Спорт,35.0,24,True
+112,Netflix,Видео,12.99,2,True
+112,YouTube Premium,Видео,11.99,14,True
+113,Netflix,Видео,12.99,21,True
+113,Spotify,Музыка,10.99,2,True
+113,Prime Video,Видео,5.99,4,True
+114,Spotify,Музыка,10.99,20,True
+114,Netflix,Видео,12.99,22,True
+114,Google One,Облако,1.99,2,True
+114,HBO Max,Видео,9.99,20,True
+114,Apple Music,Музыка,10.99,1,False
+114,Спортзал,Спорт,35.0,1,True
+114,Claude Pro,AI-сервисы,18.0,9,True
+115,Spotify,Музыка,10.99,14,True
+115,Bolt Food+,Доставка,5.99,12,True
+115,ChatGPT Plus,AI-сервисы,20.0,23,True
+115,iCloud+,Облако,2.99,24,True
+116,Microsoft 365,Софт,7.0,16,True
+116,Google One,Облако,1.99,28,True
+116,YouTube Premium,Видео,11.99,16,False
+116,Discord Nitro,Соцсети,9.99,28,True
+116,Duolingo Super,Обучение,12.99,21,True
+116,Coursera Plus,Обучение,49.0,13,True
+116,ChatGPT Plus,AI-сервисы,20.0,23,True
+117,GitHub Copilot,AI-сервисы,10.0,26,False
+117,ChatGPT Plus,AI-сервисы,20.0,9,True
+117,YouTube Premium,Видео,11.99,23,True
+117,Disney+,Видео,9.99,23,True
+117,Adobe CC,Софт,24.99,5,True
+117,Midjourney,AI-сервисы,10.0,21,True
+117,Netflix,Видео,12.99,16,True
+117,Google One,Облако,1.99,4,True
+118,Bolt Food+,Доставка,5.99,18,True
+118,Discord Nitro,Соцсети,9.99,12,True
+118,Microsoft 365,Софт,7.0,26,True
+118,Midjourney,AI-сервисы,10.0,23,True
+118,Adobe CC,Софт,24.99,21,True
+118,Spotify,Музыка,10.99,22,True
+118,Telegram Premium,Соцсети,4.99,2,True
+118,YouTube Premium,Видео,11.99,10,True
+118,ChatGPT Plus,AI-сервисы,20.0,8,False
+118,Prime Video,Видео,5.99,2,True
+118,PlayStation Plus,Игры,8.99,21,True
+118,Netflix,Видео,12.99,25,True
+118,Nintendo Online,Игры,3.99,20,True
+119,Xbox Game Pass,Игры,14.99,17,True
+119,Spotify,Музыка,10.99,20,True
+119,Google One,Облако,1.99,15,True
+120,ChatGPT Plus,AI-сервисы,20.0,20,True
+120,Google One,Облако,1.99,1,True
+120,Netflix,Видео,6.5,8,True
+120,Discord Nitro,Соцсети,9.99,10,True
+120,Prime Video,Видео,5.99,27,True
+120,Telegram Premium,Соцсети,4.99,6,True
+121,Deezer,Музыка,10.99,6,True
+121,iCloud+,Облако,2.99,25,True
+121,Apple Music,Музыка,10.99,2,True
+121,Google One,Облако,1.99,3,True
+121,Spotify,Музыка,5.5,6,True
+121,Adobe CC,Софт,24.99,10,True
+122,ChatGPT Plus,AI-сервисы,20.0,28,True
+122,Microsoft 365,Софт,7.0,20,False
+122,Prime Video,Видео,5.99,19,False
+123,iCloud+,Облако,2.99,18,True
+123,Disney+,Видео,9.99,14,True
+123,Bolt Food+,Доставка,5.99,8,True
+123,Spotify,Музыка,10.99,8,True
+123,Duolingo Super,Обучение,12.99,5,False
+123,Telegram Premium,Соцсети,4.99,28,True
+123,ChatGPT Plus,AI-сервисы,20.0,9,False
+123,HBO Max,Видео,9.99,7,False
+123,Microsoft 365,Софт,7.0,24,True
+123,YouTube Premium,Видео,11.99,15,True
+123,Apple Music,Музыка,10.99,9,True
+123,Prime Video,Видео,5.99,18,True
+123,Netflix,Видео,12.99,12,True
+123,Google One,Облако,1.99,20,True
+123,GitHub Copilot,AI-сервисы,10.0,10,True
+124,PlayStation Plus,Игры,8.99,19,True
+124,Prime Video,Видео,3.0,12,False
+124,Spotify,Музыка,5.5,15,True
+124,Netflix,Видео,6.5,5,False
+124,Disney+,Видео,9.99,18,True
+124,iCloud+,Облако,2.99,27,True
+124,Xbox Game Pass,Игры,7.5,7,True
+125,Spotify,Музыка,10.99,28,True
+125,Спортзал,Спорт,35.0,2,True
+125,Google One,Облако,1.99,10,True
+125,Claude Pro,AI-сервисы,18.0,20,True
+125,ChatGPT Plus,AI-сервисы,20.0,2,True
+125,HBO Max,Видео,9.99,18,True
+125,GitHub Copilot,AI-сервисы,10.0,11,True
+126,Nintendo Online,Игры,3.99,8,True
+126,Netflix,Видео,6.5,16,True
+126,Claude Pro,AI-сервисы,18.0,24,True
+126,PlayStation Plus,Игры,4.5,6,False
+126,Deezer,Музыка,10.99,6,True
+127,Xbox Game Pass,Игры,14.99,21,False
+127,iCloud+,Облако,2.99,23,True
+127,Спортзал,Спорт,35.0,3,True
+127,Google One,Облако,1.99,11,True
+127,Spotify,Музыка,10.99,13,True
+127,ChatGPT Plus,AI-сервисы,20.0,25,True
+127,YouTube Premium,Видео,11.99,5,True
+127,Disney+,Видео,9.99,15,True
+128,iCloud+,Облако,1.5,16,True
+128,Discord Nitro,Соцсети,5.0,9,True
+128,YouTube Premium,Видео,11.99,19,False
+128,Notion Plus,Софт,4.75,23,True
+128,Google One,Облако,1.99,6,True
+128,Claude Pro,AI-сервисы,18.0,21,True
+129,YouTube Premium,Видео,11.99,17,True
+129,PlayStation Plus,Игры,8.99,5,True
+129,Spotify,Музыка,10.99,17,True
+129,GitHub Copilot,AI-сервисы,10.0,3,True
+129,Disney+,Видео,9.99,19,False
+129,iCloud+,Облако,2.99,4,True
+129,HBO Max,Видео,9.99,11,True
+130,Spotify,Музыка,10.99,27,True
+130,Prime Video,Видео,3.0,24,True
+130,Netflix,Видео,6.5,23,True
+130,YouTube Premium,Видео,6.0,5,True
+130,Claude Pro,AI-сервисы,9.0,6,False
+130,ChatGPT Plus,AI-сервисы,10.0,27,True
+131,iCloud+,Облако,2.99,7,True
+131,YouTube Premium,Видео,11.99,10,True
+131,ChatGPT Plus,AI-сервисы,20.0,11,True
+131,Spotify,Музыка,10.99,6,True
+131,Adobe CC,Софт,24.99,19,True
+131,Deezer,Музыка,10.99,19,True
+131,Discord Nitro,Соцсети,9.99,24,True
+131,Coursera Plus,Обучение,49.0,9,False
+131,Спортзал,Спорт,35.0,27,True
+131,Google One,Облако,1.99,14,True
+131,Prime Video,Видео,5.99,28,True
+132,Netflix,Видео,12.99,20,True
+132,ChatGPT Plus,AI-сервисы,10.0,3,True
+132,Xbox Game Pass,Игры,14.99,9,True
+132,iCloud+,Облако,2.99,5,True
+132,Disney+,Видео,5.0,3,False
+133,Duolingo Super,Обучение,6.5,17,True
+133,Спортзал,Спорт,35.0,15,False
+133,iCloud+,Облако,2.99,14,True
+133,Spotify,Музыка,10.99,12,True
+133,Discord Nitro,Соцсети,5.0,28,True
+133,Telegram Premium,Соцсети,4.99,15,True
+133,GitHub Copilot,AI-сервисы,10.0,26,True
+133,PlayStation Plus,Игры,8.99,5,True
+134,Netflix,Видео,12.99,14,True
+134,PlayStation Plus,Игры,8.99,14,True
+134,ChatGPT Plus,AI-сервисы,20.0,12,False
+134,Prime Video,Видео,5.99,26,False
+134,Google One,Облако,1.99,7,True
+135,ChatGPT Plus,AI-сервисы,20.0,25,True
+136,YouTube Premium,Видео,6.0,24,True
+136,Netflix,Видео,12.99,3,True
+136,GitHub Copilot,AI-сервисы,10.0,20,True
+136,Duolingo Super,Обучение,12.99,2,False
+136,iCloud+,Облако,2.99,2,True
+136,Discord Nitro,Соцсети,5.0,13,True
+136,Spotify,Музыка,5.5,10,True
+136,Спортзал,Спорт,35.0,2,True
+136,Prime Video,Видео,3.0,21,False
+136,HBO Max,Видео,5.0,10,False
+137,Disney+,Видео,9.99,28,True
+137,Deezer,Музыка,10.99,4,True
+137,Microsoft 365,Софт,7.0,14,True
+138,Netflix,Видео,12.99,10,True
+138,Claude Pro,AI-сервисы,18.0,13,True
+138,Strava,Спорт,7.99,8,True
+138,Spotify,Музыка,10.99,20,True
+139,PlayStation Plus,Игры,8.99,28,True
+139,Netflix,Видео,12.99,7,True
+139,Apple Music,Музыка,10.99,6,True
+139,Google One,Облако,1.99,3,True
+139,YouTube Premium,Видео,11.99,22,False
+139,Notion Plus,Софт,9.5,17,True
+139,Disney+,Видео,9.99,6,True
+140,iCloud+,Облако,2.99,1,True
+140,Spotify,Музыка,10.99,15,True
+140,Спортзал,Спорт,35.0,22,False
+141,Netflix,Видео,12.99,1,True
+141,Duolingo Super,Обучение,12.99,24,False
+141,Adobe CC,Софт,24.99,27,False
+141,Спортзал,Спорт,35.0,1,True
+141,YouTube Premium,Видео,11.99,26,True
+141,HBO Max,Видео,9.99,4,False
+142,Microsoft 365,Софт,7.0,25,True
+142,PlayStation Plus,Игры,8.99,22,True
+142,Strava,Спорт,7.99,16,True
+142,Spotify,Музыка,10.99,28,True
+142,Midjourney,AI-сервисы,10.0,21,False
+143,HBO Max,Видео,9.99,4,True
+143,Notion Plus,Софт,9.5,15,True
+143,Netflix,Видео,12.99,26,False
+143,iCloud+,Облако,2.99,16,True
+144,Spotify,Музыка,5.5,19,True
+144,Claude Pro,AI-сервисы,18.0,2,False
+144,Google One,Облако,1.0,27,True
+144,Спортзал,Спорт,17.5,15,False
+144,Deezer,Музыка,10.99,19,True
+144,Microsoft 365,Софт,7.0,6,True
+145,Spotify,Музыка,10.99,1,True
+145,Netflix,Видео,6.5,16,True
+145,Microsoft 365,Софт,7.0,28,True
+145,Notion Plus,Софт,9.5,20,True
+145,YouTube Premium,Видео,11.99,5,False
+145,iCloud+,Облако,2.99,19,True
+145,GitHub Copilot,AI-сервисы,10.0,12,True
+146,Discord Nitro,Соцсети,9.99,7,True
+146,Bolt Food+,Доставка,5.99,5,True
+146,Claude Pro,AI-сервисы,18.0,4,True
+146,Dropbox,Облако,11.99,28,True
+146,Telegram Premium,Соцсети,4.99,15,True
+146,Prime Video,Видео,5.99,21,True
+146,Microsoft 365,Софт,7.0,4,True
+147,Coursera Plus,Обучение,49.0,1,False
+147,Spotify,Музыка,10.99,19,True
+147,Google One,Облако,1.99,13,True
+147,iCloud+,Облако,2.99,28,True
+147,Microsoft 365,Софт,7.0,7,False
+147,YouTube Premium,Видео,11.99,27,True
+148,Xbox Game Pass,Игры,14.99,15,True
+148,Microsoft 365,Софт,7.0,8,True
+148,YouTube Premium,Видео,11.99,4,True
+148,Apple Music,Музыка,10.99,21,True
+148,Netflix,Видео,12.99,14,False
+148,Wolt+,Доставка,7.99,20,False
+148,iCloud+,Облако,2.99,10,True
+149,iCloud+,Облако,2.99,26,True
+149,Spotify,Музыка,10.99,3,True
+149,Microsoft 365,Софт,7.0,20,False
+149,Disney+,Видео,9.99,19,True
+149,Apple Music,Музыка,10.99,21,True
+149,Adobe CC,Софт,24.99,28,True
+149,YouTube Premium,Видео,11.99,2,True
+150,Spotify,Музыка,10.99,21,True
+150,ChatGPT Plus,AI-сервисы,20.0,10,True
+150,Google One,Облако,1.0,5,True
+150,Спортзал,Спорт,35.0,25,True
+150,Wolt+,Доставка,7.99,16,True
+151,Spotify,Музыка,5.5,4,True
+151,ChatGPT Plus,AI-сервисы,20.0,1,False
+151,Xbox Game Pass,Игры,7.5,20,True
+151,Netflix,Видео,6.5,26,True
+151,GitHub Copilot,AI-сервисы,10.0,16,True
+151,Telegram Premium,Соцсети,2.5,23,True
+151,Prime Video,Видео,5.99,12,True
+152,Disney+,Видео,9.99,21,True
+152,Spotify,Музыка,10.99,27,False
+152,Netflix,Видео,12.99,10,True
+152,Xbox Game Pass,Игры,14.99,21,True
+152,YouTube Premium,Видео,11.99,1,True
+152,Apple Music,Музыка,10.99,8,True
+152,Prime Video,Видео,5.99,22,True
+153,YouTube Premium,Видео,11.99,13,True
+153,Spotify,Музыка,5.5,16,True
+153,Netflix,Видео,12.99,10,True
+153,ChatGPT Plus,AI-сервисы,20.0,5,True
+153,Disney+,Видео,5.0,22,True
+153,Apple Music,Музыка,10.99,2,True
+153,Telegram Premium,Соцсети,2.5,22,True
+153,Prime Video,Видео,5.99,12,True
+154,Netflix,Видео,12.99,2,False
+154,ChatGPT Plus,AI-сервисы,20.0,1,True
+154,Google One,Облако,1.99,11,True
+154,Microsoft 365,Софт,7.0,6,True
+154,Disney+,Видео,9.99,16,True
+155,Nintendo Online,Игры,2.0,26,True
+155,Dropbox,Облако,6.0,22,True
+155,ChatGPT Plus,AI-сервисы,20.0,19,True
+155,Netflix,Видео,12.99,12,True
+155,YouTube Premium,Видео,11.99,28,True
+156,Adobe CC,Софт,12.5,27,False
+156,Coursera Plus,Обучение,49.0,28,True
+156,ChatGPT Plus,AI-сервисы,20.0,21,True
+157,GitHub Copilot,AI-сервисы,10.0,27,True
+157,iCloud+,Облако,1.5,11,True
+158,YouTube Premium,Видео,11.99,11,False
+158,Disney+,Видео,9.99,21,True
+158,Microsoft 365,Софт,7.0,25,False
+158,ChatGPT Plus,AI-сервисы,20.0,3,True
+158,Spotify,Музыка,10.99,20,True
+158,HBO Max,Видео,9.99,18,False
+158,Duolingo Super,Обучение,12.99,23,False
+158,Discord Nitro,Соцсети,9.99,15,True
+159,iCloud+,Облако,2.99,7,True
+159,Prime Video,Видео,5.99,4,True
+159,PlayStation Plus,Игры,4.5,24,True
+159,ChatGPT Plus,AI-сервисы,20.0,10,True
+159,Apple Music,Музыка,5.5,7,True
+159,Disney+,Видео,5.0,6,True
+160,PlayStation Plus,Игры,8.99,11,True
+160,Prime Video,Видео,5.99,21,True
+160,YouTube Premium,Видео,11.99,19,True
+160,Claude Pro,AI-сервисы,9.0,5,True
+160,ChatGPT Plus,AI-сервисы,20.0,24,True
+160,Спортзал,Спорт,35.0,7,True
+161,Microsoft 365,Софт,7.0,18,True
+161,Netflix,Видео,12.99,23,True
+161,Google One,Облако,1.99,19,True
+161,Wolt+,Доставка,7.99,25,False
+162,Prime Video,Видео,3.0,17,True
+162,Netflix,Видео,6.5,18,True
+162,Apple Music,Музыка,10.99,12,True
+162,Spotify,Музыка,10.99,12,True
+163,Netflix,Видео,6.5,5,False
+163,Adobe CC,Софт,24.99,16,True
+163,Nintendo Online,Игры,2.0,18,True
+163,Apple Music,Музыка,10.99,27,True
+163,Google One,Облако,1.99,2,True
+164,ChatGPT Plus,AI-сервисы,20.0,6,True
+164,Спортзал,Спорт,35.0,21,False
+164,Adobe CC,Софт,12.5,17,False
+164,Microsoft 365,Софт,7.0,22,False
+164,Google One,Облако,1.99,15,True
+165,Disney+,Видео,5.0,5,True
+165,Bolt Food+,Доставка,3.0,20,True
+165,Prime Video,Видео,5.99,16,False
+165,ChatGPT Plus,AI-сервисы,10.0,26,False
+165,iCloud+,Облако,1.5,9,True
+166,Apple Music,Музыка,10.99,9,True
+166,Duolingo Super,Обучение,12.99,21,False
+166,Disney+,Видео,5.0,27,True
+166,iCloud+,Облако,2.99,13,True
+166,ChatGPT Plus,AI-сервисы,20.0,11,True
+166,Netflix,Видео,12.99,17,True
+167,Google One,Облако,1.99,16,True
+167,Coursera Plus,Обучение,49.0,9,True
+167,Спортзал,Спорт,35.0,19,False
+167,YouTube Premium,Видео,6.0,13,True
+167,Telegram Premium,Соцсети,4.99,27,True
+167,Netflix,Видео,6.5,5,True
+168,Claude Pro,AI-сервисы,18.0,18,True
+168,Prime Video,Видео,5.99,9,True
+168,Netflix,Видео,12.99,21,False
+168,Spotify,Музыка,10.99,18,True
+168,Google One,Облако,1.99,21,True
+168,Wolt+,Доставка,7.99,27,True
+168,Спортзал,Спорт,35.0,2,False
+168,Disney+,Видео,9.99,7,False
+168,iCloud+,Облако,2.99,6,False
+168,Duolingo Super,Обучение,12.99,28,True
+169,Google One,Облако,1.99,8,True
+169,PlayStation Plus,Игры,8.99,10,True
+169,YouTube Premium,Видео,6.0,24,False
+169,Notion Plus,Софт,9.5,5,True
+170,Spotify,Музыка,5.5,13,True
+170,YouTube Premium,Видео,6.0,1,True
+170,iCloud+,Облако,2.99,26,True
+170,Google One,Облако,1.99,21,True
+170,GitHub Copilot,AI-сервисы,5.0,6,True
+170,Disney+,Видео,9.99,28,False
+171,Spotify,Музыка,10.99,24,True
+171,Telegram Premium,Соцсети,2.5,12,True
+171,Coursera Plus,Обучение,49.0,25,False
+171,Microsoft 365,Софт,7.0,25,False
+172,YouTube Premium,Видео,11.99,25,True
+172,Telegram Premium,Соцсети,4.99,15,True
+172,iCloud+,Облако,2.99,10,False
+172,Spotify,Музыка,10.99,2,True
+172,Google One,Облако,1.99,28,True
+172,ChatGPT Plus,AI-сервисы,20.0,27,True
+172,Microsoft 365,Софт,7.0,8,True
+172,Xbox Game Pass,Игры,14.99,28,True
+172,Wolt+,Доставка,7.99,10,True
+172,HBO Max,Видео,9.99,4,True
+172,Netflix,Видео,12.99,12,False
+172,Duolingo Super,Обучение,12.99,2,True
+173,Spotify,Музыка,5.5,8,True
+173,Telegram Premium,Соцсети,4.99,22,True
+173,Duolingo Super,Обучение,12.99,25,False
+173,Prime Video,Видео,3.0,10,True
+174,YouTube Premium,Видео,11.99,19,True
+174,Notion Plus,Софт,9.5,9,True
+174,Microsoft 365,Софт,7.0,8,True
+174,Спортзал,Спорт,35.0,17,False
+174,ChatGPT Plus,AI-сервисы,20.0,24,True
+174,Telegram Premium,Соцсети,4.99,26,True
+174,Discord Nitro,Соцсети,9.99,22,True
+174,Spotify,Музыка,10.99,2,True
+174,Disney+,Видео,9.99,22,False
+174,Wolt+,Доставка,7.99,12,False
+174,Netflix,Видео,12.99,13,True
+174,Google One,Облако,1.99,13,True
+175,HBO Max,Видео,9.99,15,True
+175,Deezer,Музыка,5.5,10,True
+175,Disney+,Видео,9.99,4,True
+176,Спортзал,Спорт,35.0,11,True
+176,Xbox Game Pass,Игры,7.5,21,True
+176,Discord Nitro,Соцсети,5.0,22,True
+176,Google One,Облако,1.0,5,True
+176,Spotify,Музыка,10.99,8,True
+176,Deezer,Музыка,5.5,27,True
+177,Netflix,Видео,12.99,21,True
+177,PlayStation Plus,Игры,4.5,19,True
+177,YouTube Premium,Видео,11.99,3,False
+177,Duolingo Super,Обучение,12.99,26,False
+177,HBO Max,Видео,5.0,20,False
+178,Xbox Game Pass,Игры,7.5,10,True
+178,Prime Video,Видео,3.0,10,True
+178,Spotify,Музыка,10.99,25,True
+178,Microsoft 365,Софт,7.0,5,True
+178,Bolt Food+,Доставка,3.0,17,True
+178,Netflix,Видео,12.99,10,True
+178,HBO Max,Видео,9.99,4,False
+179,Adobe CC,Софт,12.5,13,True
+179,iCloud+,Облако,2.99,13,True
+179,Apple Music,Музыка,10.99,17,True
+179,Coursera Plus,Обучение,49.0,22,True
+179,Spotify,Музыка,10.99,19,True
+179,Google One,Облако,1.0,18,True
+179,ChatGPT Plus,AI-сервисы,20.0,5,True
+180,HBO Max,Видео,9.99,11,True
+180,Microsoft 365,Софт,7.0,1,True
+180,Disney+,Видео,9.99,4,True
+180,Netflix,Видео,12.99,7,True
+180,GitHub Copilot,AI-сервисы,10.0,24,True
+181,iCloud+,Облако,2.99,27,True
+181,Google One,Облако,1.99,13,True
+181,Спортзал,Спорт,35.0,16,False
+181,ChatGPT Plus,AI-сервисы,20.0,16,True
+181,Claude Pro,AI-сервисы,18.0,13,True
+181,Netflix,Видео,12.99,13,False
+181,Microsoft 365,Софт,7.0,20,True
+182,Google One,Облако,1.99,17,True
+182,Duolingo Super,Обучение,12.99,28,False
+182,Telegram Premium,Соцсети,4.99,12,False
+182,Netflix,Видео,12.99,12,False
+182,Spotify,Музыка,10.99,19,True
+183,Microsoft 365,Софт,7.0,22,True
+183,ChatGPT Plus,AI-сервисы,20.0,5,True
+183,Google One,Облако,1.99,4,True
+183,Apple Music,Музыка,10.99,15,True
+183,Spotify,Музыка,10.99,1,True
+183,HBO Max,Видео,9.99,2,False
+184,Disney+,Видео,9.99,17,False
+184,iCloud+,Облако,2.99,26,True
+184,ChatGPT Plus,AI-сервисы,20.0,10,False
+184,Netflix,Видео,12.99,24,False
+184,HBO Max,Видео,9.99,27,False
+184,Telegram Premium,Соцсети,4.99,22,True
+184,Microsoft 365,Софт,7.0,23,True
+184,YouTube Premium,Видео,11.99,26,True
+184,Спортзал,Спорт,35.0,18,False
+184,Discord Nitro,Соцсети,9.99,18,True
+184,Apple Music,Музыка,10.99,9,True
+185,Netflix,Видео,12.99,22,True
+185,Microsoft 365,Софт,7.0,19,True
+185,Telegram Premium,Соцсети,4.99,9,True
+186,HBO Max,Видео,5.0,20,False
+186,Strava,Спорт,7.99,3,True
+186,Bolt Food+,Доставка,5.99,20,True
+186,Netflix,Видео,12.99,12,True
+186,Deezer,Музыка,10.99,23,True
+186,Telegram Premium,Соцсети,4.99,23,True
+186,Coursera Plus,Обучение,49.0,11,False
+186,Google One,Облако,1.99,2,True
+186,Prime Video,Видео,5.99,11,False
+186,Midjourney,AI-сервисы,10.0,28,True
+187,Xbox Game Pass,Игры,14.99,23,True
+187,ChatGPT Plus,AI-сервисы,20.0,10,False
+187,Google One,Облако,1.99,22,True
+187,Telegram Premium,Соцсети,4.99,19,False
+187,iCloud+,Облако,2.99,20,True
+187,GitHub Copilot,AI-сервисы,10.0,17,True
+187,Duolingo Super,Обучение,12.99,23,False
+187,Coursera Plus,Обучение,49.0,10,False
+188,Telegram Premium,Соцсети,4.99,26,False
+188,Xbox Game Pass,Игры,14.99,25,True
+188,Spotify,Музыка,5.5,27,True
+188,Dropbox,Облако,6.0,10,True
+189,Netflix,Видео,12.99,22,True
+189,Discord Nitro,Соцсети,5.0,16,True
+189,iCloud+,Облако,2.99,1,True
+190,Disney+,Видео,5.0,6,True
+190,Claude Pro,AI-сервисы,9.0,7,True
+190,Google One,Облако,1.99,7,True
+191,Adobe CC,Софт,24.99,3,True
+191,iCloud+,Облако,2.99,16,True
+191,Netflix,Видео,12.99,18,True
+191,Discord Nitro,Соцсети,9.99,22,True
+191,YouTube Premium,Видео,11.99,4,True
+191,Telegram Premium,Соцсети,4.99,16,False
+192,Spotify,Музыка,10.99,19,True
+192,iCloud+,Облако,2.99,25,True
+192,Disney+,Видео,9.99,18,True
+192,Discord Nitro,Соцсети,9.99,7,True
+193,Netflix,Видео,12.99,24,True
+193,Xbox Game Pass,Игры,14.99,23,True
+193,Apple Music,Музыка,10.99,16,True
+193,GitHub Copilot,AI-сервисы,10.0,9,True
+193,YouTube Premium,Видео,11.99,9,False
+194,iCloud+,Облако,2.99,22,True
+194,Wolt+,Доставка,4.0,26,True
+194,Bolt Food+,Доставка,5.99,15,True
+194,Prime Video,Видео,5.99,20,True
+195,iCloud+,Облако,2.99,21,True
+195,Disney+,Видео,5.0,2,True
+195,Netflix,Видео,12.99,13,True
+195,GitHub Copilot,AI-сервисы,10.0,28,False
+195,Xbox Game Pass,Игры,14.99,3,True
+195,Adobe CC,Софт,12.5,25,False
+195,Telegram Premium,Соцсети,4.99,12,True
+195,Microsoft 365,Софт,7.0,11,False
+195,Nintendo Online,Игры,2.0,11,True
+195,YouTube Premium,Видео,11.99,25,True
+196,iCloud+,Облако,2.99,28,True
+196,Adobe CC,Софт,24.99,21,True
+196,Prime Video,Видео,5.99,18,True
+196,Netflix,Видео,12.99,26,False
+196,YouTube Premium,Видео,11.99,12,True
+196,Xbox Game Pass,Игры,14.99,9,True
+197,Discord Nitro,Соцсети,9.99,19,True
+198,GitHub Copilot,AI-сервисы,10.0,20,True
+198,Prime Video,Видео,3.0,2,True
+199,Bolt Food+,Доставка,5.99,18,True
+199,YouTube Premium,Видео,11.99,3,True
+199,Apple Music,Музыка,10.99,22,True
+199,Google One,Облако,1.99,7,False
+199,Netflix,Видео,12.99,2,True
+200,Strava,Спорт,7.99,4,True
+200,HBO Max,Видео,9.99,21,True
+200,ChatGPT Plus,AI-сервисы,20.0,10,True
+200,YouTube Premium,Видео,11.99,6,True
+200,Netflix,Видео,6.5,11,True
+201,ChatGPT Plus,AI-сервисы,20.0,20,True
+201,Wolt+,Доставка,7.99,2,True
+201,Nintendo Online,Игры,3.99,24,False
+201,Apple Music,Музыка,10.99,16,True
+201,Netflix,Видео,12.99,14,False
+201,iCloud+,Облако,2.99,14,True
+201,Discord Nitro,Соцсети,9.99,23,True
+201,Xbox Game Pass,Игры,14.99,28,True
+201,Prime Video,Видео,5.99,28,True
+201,Telegram Premium,Соцсети,4.99,9,True
+201,Spotify,Музыка,10.99,16,True
+202,Prime Video,Видео,5.99,24,False
+202,Disney+,Видео,9.99,26,True
+202,iCloud+,Облако,2.99,7,True
+203,ChatGPT Plus,AI-сервисы,10.0,13,False
+203,Xbox Game Pass,Игры,14.99,15,False
+203,Adobe CC,Софт,24.99,3,True
+203,iCloud+,Облако,2.99,5,True
+203,Dropbox,Облако,6.0,24,True
+204,Nintendo Online,Игры,2.0,14,True
+204,Claude Pro,AI-сервисы,9.0,23,False
+204,Adobe CC,Софт,12.5,13,True
+205,Adobe CC,Софт,24.99,21,True
+205,iCloud+,Облако,2.99,15,True
+205,GitHub Copilot,AI-сервисы,10.0,21,True
+205,Bolt Food+,Доставка,5.99,27,True
+206,YouTube Premium,Видео,6.0,2,True
+206,PlayStation Plus,Игры,4.5,27,True
+206,Adobe CC,Софт,24.99,10,True
+206,Apple Music,Музыка,10.99,20,True
+206,Nintendo Online,Игры,2.0,21,True
+207,ChatGPT Plus,AI-сервисы,10.0,28,True
+207,Spotify,Музыка,10.99,27,True
+207,Disney+,Видео,9.99,18,True
+207,Duolingo Super,Обучение,12.99,26,True
+207,Microsoft 365,Софт,3.5,10,True
+207,Notion Plus,Софт,9.5,10,True
+207,iCloud+,Облако,2.99,4,True
+208,Bolt Food+,Доставка,3.0,8,True
+208,Nintendo Online,Игры,3.99,9,True
+208,Spotify,Музыка,10.99,13,True
+208,HBO Max,Видео,5.0,22,True
+209,iCloud+,Облако,2.99,18,True
+209,Discord Nitro,Соцсети,9.99,4,True
+209,Disney+,Видео,9.99,6,False
+209,HBO Max,Видео,5.0,15,True
+209,Netflix,Видео,12.99,13,True
+210,YouTube Premium,Видео,11.99,10,True
+210,ChatGPT Plus,AI-сервисы,20.0,17,False
+210,Claude Pro,AI-сервисы,18.0,26,True
+210,GitHub Copilot,AI-сервисы,10.0,4,True
+211,GitHub Copilot,AI-сервисы,10.0,12,True
+211,Spotify,Музыка,10.99,24,True
+211,Xbox Game Pass,Игры,14.99,18,True
+211,Duolingo Super,Обучение,12.99,27,True
+211,Claude Pro,AI-сервисы,18.0,2,True
+211,iCloud+,Облако,2.99,18,True
+211,Prime Video,Видео,5.99,17,True
+211,Discord Nitro,Соцсети,9.99,4,False
+211,Disney+,Видео,9.99,8,True
+212,Xbox Game Pass,Игры,14.99,19,True
+212,Adobe CC,Софт,24.99,26,True
+212,Disney+,Видео,9.99,15,True
+212,Netflix,Видео,12.99,25,True
+212,ChatGPT Plus,AI-сервисы,20.0,26,False
+212,Claude Pro,AI-сервисы,18.0,27,False
+212,GitHub Copilot,AI-сервисы,10.0,25,True
+213,Netflix,Видео,6.5,9,True
+213,Prime Video,Видео,3.0,20,True
+213,Spotify,Музыка,5.5,27,True
+213,Wolt+,Доставка,7.99,17,True
+213,Google One,Облако,1.99,5,True
+213,Disney+,Видео,9.99,26,True
+214,Deezer,Музыка,10.99,25,True
+214,Adobe CC,Софт,24.99,4,True
+214,Disney+,Видео,9.99,4,True
+215,Spotify,Музыка,10.99,20,False
+215,Netflix,Видео,12.99,28,False
+215,Bolt Food+,Доставка,5.99,8,False
+215,Microsoft 365,Софт,7.0,3,True
+215,iCloud+,Облако,2.99,3,True
+215,PlayStation Plus,Игры,8.99,16,True
+215,ChatGPT Plus,AI-сервисы,20.0,4,False
+215,Telegram Premium,Соцсети,4.99,12,True
+215,Wolt+,Доставка,7.99,8,True
+215,Apple Music,Музыка,10.99,6,True
+215,Prime Video,Видео,5.99,28,False
+215,YouTube Premium,Видео,11.99,6,True
+215,GitHub Copilot,AI-сервисы,10.0,24,True
+216,Microsoft 365,Софт,7.0,1,True
+216,iCloud+,Облако,1.5,17,True
+216,Telegram Premium,Соцсети,4.99,6,True
+216,Spotify,Музыка,5.5,9,True
+216,YouTube Premium,Видео,11.99,1,True
+216,Nintendo Online,Игры,3.99,18,True
+217,HBO Max,Видео,9.99,3,False
+217,Adobe CC,Софт,24.99,13,True
+217,Apple Music,Музыка,10.99,14,True
+217,Spotify,Музыка,10.99,17,True
+217,iCloud+,Облако,2.99,9,True
+217,ChatGPT Plus,AI-сервисы,20.0,10,True
+217,PlayStation Plus,Игры,8.99,10,True
+217,YouTube Premium,Видео,11.99,16,True
+217,Спортзал,Спорт,35.0,22,True
+218,Claude Pro,AI-сервисы,18.0,3,True
+218,GitHub Copilot,AI-сервисы,10.0,18,True
+218,Disney+,Видео,9.99,15,True
+218,iCloud+,Облако,2.99,18,True
+218,Google One,Облако,1.99,2,True
+218,YouTube Premium,Видео,11.99,4,True
+219,Telegram Premium,Соцсети,4.99,16,False
+219,Spotify,Музыка,10.99,11,True
+219,Google One,Облако,1.99,3,True
+219,Apple Music,Музыка,10.99,22,True
+219,Netflix,Видео,12.99,13,True
+220,Google One,Облако,1.99,3,True
+220,Notion Plus,Софт,9.5,8,True
+220,PlayStation Plus,Игры,8.99,11,True
+220,Spotify,Музыка,10.99,2,True
+221,Duolingo Super,Обучение,12.99,6,True
+221,Coursera Plus,Обучение,49.0,16,True
+221,Adobe CC,Софт,24.99,4,True
+221,Apple Music,Музыка,10.99,16,True
+221,Spotify,Музыка,10.99,9,True
+221,Google One,Облако,1.99,19,True
+222,HBO Max,Видео,9.99,12,True
+222,Google One,Облако,1.99,13,True
+222,YouTube Premium,Видео,11.99,1,True
+222,Bolt Food+,Доставка,5.99,21,True
+222,PlayStation Plus,Игры,8.99,1,True
+223,Dropbox,Облако,11.99,28,True
+223,Wolt+,Доставка,7.99,4,True
+224,Prime Video,Видео,5.99,8,True
+224,Spotify,Музыка,5.5,15,True
+224,YouTube Premium,Видео,11.99,11,True
+224,Notion Plus,Софт,9.5,16,True
+224,Netflix,Видео,6.5,27,True
+224,ChatGPT Plus,AI-сервисы,20.0,1,True
+225,HBO Max,Видео,9.99,27,True
+225,Disney+,Видео,9.99,24,True
+225,YouTube Premium,Видео,11.99,9,True
+225,Спортзал,Спорт,35.0,8,True
+225,Netflix,Видео,12.99,21,True
+225,Google One,Облако,1.99,19,True
+225,Claude Pro,AI-сервисы,18.0,11,True
+226,Bolt Food+,Доставка,5.99,8,True
+226,Prime Video,Видео,5.99,27,True
+226,Duolingo Super,Обучение,12.99,14,True
+226,iCloud+,Облако,2.99,27,True
+226,PlayStation Plus,Игры,8.99,11,True
+226,Dropbox,Облако,11.99,26,True
+226,Nintendo Online,Игры,3.99,21,True
+226,Notion Plus,Софт,9.5,28,True
+226,Netflix,Видео,12.99,17,True
+227,YouTube Premium,Видео,11.99,16,True
+227,iCloud+,Облако,1.5,9,True
+227,Disney+,Видео,5.0,16,True
+227,Google One,Облако,1.0,1,True
+227,Xbox Game Pass,Игры,14.99,20,True
+228,Netflix,Видео,6.5,2,True
+229,iCloud+,Облако,2.99,11,True
+229,Netflix,Видео,12.99,8,True
+229,Bolt Food+,Доставка,5.99,17,True
+229,Duolingo Super,Обучение,12.99,28,True
+229,Prime Video,Видео,5.99,26,False
+229,Deezer,Музыка,10.99,8,True
+229,Google One,Облако,1.99,6,True
+229,Wolt+,Доставка,7.99,15,False
+229,Apple Music,Музыка,10.99,18,True
+229,Claude Pro,AI-сервисы,18.0,8,True
+230,YouTube Premium,Видео,11.99,11,False
+230,Deezer,Музыка,10.99,11,True
+230,Microsoft 365,Софт,7.0,15,True
+230,iCloud+,Облако,2.99,27,True
+230,ChatGPT Plus,AI-сервисы,20.0,3,True
+230,Disney+,Видео,9.99,19,False
+230,Netflix,Видео,12.99,12,True
+230,Apple Music,Музыка,10.99,15,True
+231,Claude Pro,AI-сервисы,18.0,23,True
+231,iCloud+,Облако,2.99,24,True
+231,Adobe CC,Софт,24.99,17,False
+231,Telegram Premium,Соцсети,4.99,11,True
+231,PlayStation Plus,Игры,8.99,2,True
+231,Spotify,Музыка,10.99,5,True
+231,Disney+,Видео,9.99,10,False
+231,Netflix,Видео,12.99,16,True
+232,Strava,Спорт,7.99,24,True
+232,Microsoft 365,Софт,7.0,24,True
+232,Spotify,Музыка,10.99,28,True
+232,Wolt+,Доставка,7.99,12,True
+233,iCloud+,Облако,1.5,20,True
+233,Duolingo Super,Обучение,12.99,12,True
+233,Wolt+,Доставка,7.99,23,True
+233,Discord Nitro,Соцсети,9.99,14,True
+233,Microsoft 365,Софт,3.5,15,True
+233,Спортзал,Спорт,35.0,6,True
+233,Disney+,Видео,9.99,19,False
+234,Spotify,Музыка,10.99,13,True
+234,Disney+,Видео,9.99,11,True
+234,Nintendo Online,Игры,3.99,23,False
+235,Disney+,Видео,9.99,28,True
+235,Google One,Облако,1.99,25,True
+235,iCloud+,Облако,2.99,2,True
+236,Spotify,Музыка,10.99,4,True
+236,HBO Max,Видео,5.0,19,False
+237,Telegram Premium,Соцсети,2.5,14,True
+237,Google One,Облако,1.99,24,False
+237,iCloud+,Облако,2.99,28,True
+237,Adobe CC,Софт,24.99,9,True
+237,Netflix,Видео,12.99,17,True
+237,ChatGPT Plus,AI-сервисы,10.0,26,True
+237,Спортзал,Спорт,35.0,3,True
+237,Duolingo Super,Обучение,12.99,11,True
+238,Spotify,Музыка,10.99,27,True
+238,Discord Nitro,Соцсети,9.99,6,True
+238,Disney+,Видео,9.99,13,True
+238,Xbox Game Pass,Игры,14.99,23,True
+238,Wolt+,Доставка,4.0,13,True
+239,Netflix,Видео,12.99,18,True
+239,ChatGPT Plus,AI-сервисы,20.0,3,True
+239,Спортзал,Спорт,35.0,25,True
+239,Duolingo Super,Обучение,12.99,6,True
+239,Apple Music,Музыка,10.99,18,True
+239,Bolt Food+,Доставка,5.99,14,True
+240,Disney+,Видео,9.99,24,True
+240,Strava,Спорт,4.0,20,False
+240,iCloud+,Облако,2.99,21,True
+241,Netflix,Видео,12.99,14,False
+241,Strava,Спорт,4.0,1,False
+241,ChatGPT Plus,AI-сервисы,10.0,7,True
+241,Apple Music,Музыка,10.99,21,True
+241,Deezer,Музыка,10.99,17,True
+241,Спортзал,Спорт,35.0,28,True
+241,Disney+,Видео,5.0,21,True
+241,Telegram Premium,Соцсети,4.99,15,False
+242,YouTube Premium,Видео,11.99,21,True
+242,HBO Max,Видео,9.99,27,True
+242,Spotify,Музыка,10.99,24,True
+242,GitHub Copilot,AI-сервисы,10.0,18,True
+242,Duolingo Super,Обучение,12.99,4,False
+242,Wolt+,Доставка,7.99,28,True
+242,Disney+,Видео,9.99,3,True
+243,Spotify,Музыка,10.99,5,True
+243,ChatGPT Plus,AI-сервисы,20.0,10,False
+243,Google One,Облако,1.99,19,True
+243,Strava,Спорт,7.99,21,True
+243,iCloud+,Облако,2.99,2,True
+243,Duolingo Super,Обучение,12.99,10,True
+244,ChatGPT Plus,AI-сервисы,10.0,12,True
+244,Notion Plus,Софт,4.75,8,True
+244,GitHub Copilot,AI-сервисы,5.0,13,True
+244,Спортзал,Спорт,35.0,28,False
+244,iCloud+,Облако,2.99,26,True
+244,Telegram Premium,Соцсети,4.99,10,True
+245,PlayStation Plus,Игры,4.5,15,True
+245,Duolingo Super,Обучение,12.99,9,False
+245,iCloud+,Облако,1.5,6,True
+245,Microsoft 365,Софт,7.0,26,True
+245,Xbox Game Pass,Игры,7.5,5,False
+245,Apple Music,Музыка,10.99,8,False
+245,Netflix,Видео,12.99,10,True
+246,YouTube Premium,Видео,6.0,19,True
+246,Netflix,Видео,12.99,1,True
+246,Microsoft 365,Софт,7.0,9,True
+246,Xbox Game Pass,Игры,14.99,3,True
+247,Wolt+,Доставка,7.99,27,True
+247,Notion Plus,Софт,4.75,11,True
+247,Netflix,Видео,12.99,2,True
+247,Apple Music,Музыка,10.99,11,True
+247,Spotify,Музыка,10.99,27,True
+247,Adobe CC,Софт,12.5,25,True
+247,HBO Max,Видео,9.99,2,True
+248,Spotify,Музыка,10.99,11,False
+248,PlayStation Plus,Игры,8.99,24,True
+248,Duolingo Super,Обучение,12.99,27,True
+248,Adobe CC,Софт,24.99,25,True
+248,YouTube Premium,Видео,11.99,20,False
+248,ChatGPT Plus,AI-сервисы,20.0,1,True
+248,Netflix,Видео,12.99,16,True
+248,Bolt Food+,Доставка,5.99,17,True
+248,Спортзал,Спорт,35.0,21,False
+249,Prime Video,Видео,5.99,14,True
+249,Telegram Premium,Соцсети,4.99,5,True
+249,YouTube Premium,Видео,11.99,18,True
+249,iCloud+,Облако,2.99,15,True
+249,ChatGPT Plus,AI-сервисы,20.0,10,True
+249,Wolt+,Доставка,7.99,14,True
+250,Netflix,Видео,12.99,13,False
+250,ChatGPT Plus,AI-сервисы,20.0,27,True
+250,Prime Video,Видео,5.99,5,True
+250,iCloud+,Облако,2.99,26,True
+250,Apple Music,Музыка,10.99,18,True
+250,Microsoft 365,Софт,7.0,6,True
+251,Discord Nitro,Соцсети,9.99,8,True
+251,Telegram Premium,Соцсети,4.99,2,True
+251,ChatGPT Plus,AI-сервисы,20.0,27,True
+251,HBO Max,Видео,9.99,12,False
+252,ChatGPT Plus,AI-сервисы,20.0,10,True
+252,GitHub Copilot,AI-сервисы,10.0,1,True
+252,Claude Pro,AI-сервисы,18.0,9,True
+252,Discord Nitro,Соцсети,5.0,17,True
+252,Notion Plus,Софт,9.5,24,True
+253,Duolingo Super,Обучение,12.99,27,False
+253,Deezer,Музыка,5.5,19,True
+253,Bolt Food+,Доставка,5.99,27,True
+254,ChatGPT Plus,AI-сервисы,20.0,9,True
+254,Dropbox,Облако,11.99,21,True
+254,Duolingo Super,Обучение,12.99,20,True
+254,Prime Video,Видео,5.99,9,True
+254,Microsoft 365,Софт,7.0,27,False
+254,Deezer,Музыка,10.99,25,True
+254,Spotify,Музыка,10.99,17,True
+254,HBO Max,Видео,9.99,23,True
+254,Telegram Premium,Соцсети,4.99,16,True
+254,Apple Music,Музыка,10.99,10,True
+255,Telegram Premium,Соцсети,2.5,10,True
+255,HBO Max,Видео,9.99,17,True
+255,Bolt Food+,Доставка,5.99,9,True
+255,PlayStation Plus,Игры,8.99,10,True
+256,Telegram Premium,Соцсети,2.5,9,True
+256,HBO Max,Видео,9.99,21,True
+256,Prime Video,Видео,3.0,13,False
+256,Adobe CC,Софт,24.99,25,True
+256,Duolingo Super,Обучение,6.5,1,False
+256,Google One,Облако,1.0,27,True
+257,Apple Music,Музыка,10.99,3,True
+257,Spotify,Музыка,10.99,15,True
+257,Prime Video,Видео,3.0,22,True
+258,Wolt+,Доставка,7.99,19,True
+258,YouTube Premium,Видео,11.99,12,True
+258,ChatGPT Plus,AI-сервисы,20.0,8,True
+258,Microsoft 365,Софт,7.0,6,False
+258,Notion Plus,Софт,9.5,3,True
+258,Bolt Food+,Доставка,3.0,16,False
+258,Netflix,Видео,12.99,4,True
+258,Adobe CC,Софт,12.5,7,True
+259,Adobe CC,Софт,24.99,17,True
+259,PlayStation Plus,Игры,8.99,12,False
+259,Apple Music,Музыка,10.99,2,True
+259,Spotify,Музыка,10.99,7,False
+259,YouTube Premium,Видео,11.99,22,True
+259,Спортзал,Спорт,35.0,11,True
+259,Duolingo Super,Обучение,12.99,13,True
+259,Disney+,Видео,9.99,17,True
+260,YouTube Premium,Видео,11.99,27,True
+260,Claude Pro,AI-сервисы,18.0,8,False
+260,Prime Video,Видео,5.99,1,True
+260,Strava,Спорт,7.99,20,True
+260,iCloud+,Облако,2.99,12,True
+261,Prime Video,Видео,5.99,9,True
+262,iCloud+,Облако,1.5,17,True
+262,Spotify,Музыка,10.99,24,True
+262,Netflix,Видео,6.5,7,True
+262,Microsoft 365,Софт,7.0,28,True
+262,ChatGPT Plus,AI-сервисы,20.0,27,True
+262,GitHub Copilot,AI-сервисы,10.0,26,True
+262,Notion Plus,Софт,9.5,12,True
+263,YouTube Premium,Видео,6.0,23,True
+263,Bolt Food+,Доставка,5.99,28,False
+263,ChatGPT Plus,AI-сервисы,10.0,18,True
+263,iCloud+,Облако,1.5,28,True
+264,Wolt+,Доставка,7.99,5,True
+264,Netflix,Видео,12.99,23,True
+264,Microsoft 365,Софт,7.0,6,True
+264,iCloud+,Облако,2.99,2,True
+265,Спортзал,Спорт,35.0,27,True
+265,iCloud+,Облако,1.5,20,True
+265,Spotify,Музыка,10.99,22,True
+265,ChatGPT Plus,AI-сервисы,20.0,20,True
+265,Duolingo Super,Обучение,12.99,1,True
+266,Spotify,Музыка,10.99,17,True
+266,Google One,Облако,1.99,15,True
+266,iCloud+,Облако,2.99,9,True
+266,Disney+,Видео,9.99,28,False
+267,iCloud+,Облако,1.5,7,True
+267,Netflix,Видео,12.99,19,True
+267,Microsoft 365,Софт,7.0,12,True
+267,Google One,Облако,1.99,2,True
+267,ChatGPT Plus,AI-сервисы,20.0,4,True
+267,Spotify,Музыка,10.99,22,True
+267,Discord Nitro,Соцсети,9.99,6,True
+267,PlayStation Plus,Игры,4.5,24,True
+268,Adobe CC,Софт,12.5,23,False
+268,iCloud+,Облако,1.5,20,True
+268,ChatGPT Plus,AI-сервисы,20.0,16,True
+268,Discord Nitro,Соцсети,9.99,6,True
+268,Spotify,Музыка,10.99,28,True
+268,Telegram Premium,Соцсети,4.99,26,True
+268,Спортзал,Спорт,35.0,1,False
+269,ChatGPT Plus,AI-сервисы,20.0,2,True
+269,YouTube Premium,Видео,6.0,20,True
+270,Apple Music,Музыка,10.99,19,True
+270,ChatGPT Plus,AI-сервисы,20.0,11,True
+270,Duolingo Super,Обучение,12.99,26,False
+270,Спортзал,Спорт,35.0,28,False
+270,Spotify,Музыка,10.99,21,True
+270,Claude Pro,AI-сервисы,18.0,21,True
+270,Google One,Облако,1.99,1,True
+270,GitHub Copilot,AI-сервисы,10.0,25,True
+270,Netflix,Видео,12.99,19,True
+271,Netflix,Видео,6.5,13,True
+271,Spotify,Музыка,5.5,14,True
+271,HBO Max,Видео,5.0,25,True
+271,iCloud+,Облако,2.99,22,True
+271,Спортзал,Спорт,17.5,14,True
+271,Microsoft 365,Софт,3.5,5,True
+271,Midjourney,AI-сервисы,10.0,6,True
+272,Netflix,Видео,12.99,19,True
+272,Notion Plus,Софт,9.5,12,False
+272,Microsoft 365,Софт,3.5,26,True
+272,Telegram Premium,Соцсети,4.99,13,True
+272,HBO Max,Видео,9.99,11,True
+273,GitHub Copilot,AI-сервисы,10.0,16,True
+273,iCloud+,Облако,2.99,4,True
+273,YouTube Premium,Видео,11.99,13,True
+273,Spotify,Музыка,5.5,19,True
+273,Disney+,Видео,9.99,16,True
+273,ChatGPT Plus,AI-сервисы,20.0,18,True
+273,Bolt Food+,Доставка,5.99,5,True
+274,Spotify,Музыка,10.99,20,False
+274,Adobe CC,Софт,24.99,13,True
+274,Xbox Game Pass,Игры,14.99,19,True
+274,Bolt Food+,Доставка,5.99,8,True
+274,iCloud+,Облако,2.99,12,True
+274,Telegram Premium,Соцсети,4.99,6,True
+274,Prime Video,Видео,5.99,5,True
+274,Google One,Облако,1.99,1,True
+274,Netflix,Видео,12.99,10,True
+275,Netflix,Видео,12.99,23,True
+275,Strava,Спорт,7.99,10,True
+275,Microsoft 365,Софт,7.0,24,True
+275,Xbox Game Pass,Игры,14.99,20,True
+276,Discord Nitro,Соцсети,9.99,15,True
+276,Netflix,Видео,6.5,27,True
+276,Disney+,Видео,9.99,16,False
+276,Google One,Облако,1.99,27,True
+277,Google One,Облако,1.0,1,True
+277,PlayStation Plus,Игры,4.5,15,True
+278,Google One,Облако,1.0,2,True
+278,Apple Music,Музыка,10.99,23,True
+278,Bolt Food+,Доставка,3.0,12,True
+278,ChatGPT Plus,AI-сервисы,10.0,2,True
+279,Spotify,Музыка,10.99,8,True
+280,Microsoft 365,Софт,7.0,18,True
+280,Prime Video,Видео,5.99,13,True
+280,ChatGPT Plus,AI-сервисы,20.0,27,True
+280,Apple Music,Музыка,10.99,18,False
+280,Notion Plus,Софт,9.5,8,True
+280,Claude Pro,AI-сервисы,18.0,13,False
+280,PlayStation Plus,Игры,8.99,17,True
+280,Telegram Premium,Соцсети,4.99,9,True
+280,Google One,Облако,1.99,1,True
+280,Спортзал,Спорт,35.0,14,False
+281,ChatGPT Plus,AI-сервисы,20.0,1,True
+281,iCloud+,Облако,1.5,21,True
+281,Netflix,Видео,6.5,20,True
+281,Spotify,Музыка,5.5,18,True
+281,Wolt+,Доставка,7.99,11,True
+281,Xbox Game Pass,Игры,7.5,20,True
+282,Dropbox,Облако,6.0,2,True
+282,YouTube Premium,Видео,11.99,6,False
+282,Claude Pro,AI-сервисы,18.0,9,True
+282,Spotify,Музыка,10.99,12,True
+282,ChatGPT Plus,AI-сервисы,20.0,13,True
+282,iCloud+,Облако,2.99,12,True
+283,Xbox Game Pass,Игры,7.5,17,True
+283,Claude Pro,AI-сервисы,9.0,28,False
+283,PlayStation Plus,Игры,8.99,7,True
+283,Google One,Облако,1.99,19,True
+283,Microsoft 365,Софт,3.5,18,True
+284,Netflix,Видео,6.5,15,True
+284,Telegram Premium,Соцсети,2.5,5,True
+284,iCloud+,Облако,2.99,20,True
+285,Netflix,Видео,12.99,19,True
+285,HBO Max,Видео,9.99,15,True
+285,iCloud+,Облако,2.99,27,True
+285,Adobe CC,Софт,12.5,11,True
+285,Google One,Облако,1.99,27,True
+286,Disney+,Видео,9.99,21,True
+287,ChatGPT Plus,AI-сервисы,20.0,21,True
+287,HBO Max,Видео,9.99,12,True
+287,Google One,Облако,1.99,3,True
+287,YouTube Premium,Видео,11.99,16,False
+287,Spotify,Музыка,10.99,8,True
+287,Xbox Game Pass,Игры,14.99,28,True
+288,Google One,Облако,1.99,25,True
+288,Xbox Game Pass,Игры,14.99,17,True
+288,Spotify,Музыка,10.99,16,True
+288,Discord Nitro,Соцсети,9.99,17,True
+288,Microsoft 365,Софт,7.0,17,False
+288,Adobe CC,Софт,24.99,5,True
+289,Spotify,Музыка,10.99,2,True
+289,Microsoft 365,Софт,7.0,21,True
+289,Telegram Premium,Соцсети,4.99,19,False
+289,Notion Plus,Софт,4.75,16,True
+289,Deezer,Музыка,10.99,16,True
+289,ChatGPT Plus,AI-сервисы,20.0,19,False
+289,Dropbox,Облако,11.99,12,True
+289,Nintendo Online,Игры,2.0,4,True
+290,Microsoft 365,Софт,7.0,28,True
+290,Strava,Спорт,7.99,12,True
+290,Spotify,Музыка,10.99,17,True
+290,HBO Max,Видео,9.99,12,True
+290,Prime Video,Видео,5.99,3,True
+291,GitHub Copilot,AI-сервисы,10.0,1,True
+291,Disney+,Видео,9.99,16,False
+291,Netflix,Видео,12.99,7,True
+291,Google One,Облако,1.99,25,True
+291,Telegram Premium,Соцсети,4.99,5,True
+291,Nintendo Online,Игры,3.99,5,True
+291,Discord Nitro,Соцсети,9.99,22,True
+291,Spotify,Музыка,10.99,21,True
+292,Microsoft 365,Софт,7.0,21,True
+292,Duolingo Super,Обучение,12.99,27,False
+292,ChatGPT Plus,AI-сервисы,20.0,1,True
+292,Netflix,Видео,12.99,4,True
+292,Spotify,Музыка,10.99,25,True
+292,iCloud+,Облако,2.99,1,True
+293,PlayStation Plus,Игры,8.99,2,True
+293,Xbox Game Pass,Игры,14.99,27,False
+293,Netflix,Видео,12.99,15,True
+293,Google One,Облако,1.99,22,True
+293,Prime Video,Видео,5.99,15,True
+293,Deezer,Музыка,10.99,28,True
+293,Nintendo Online,Игры,3.99,24,False
+293,iCloud+,Облако,2.99,22,True
+294,ChatGPT Plus,AI-сервисы,20.0,23,True
+294,Microsoft 365,Софт,7.0,18,True
+294,Disney+,Видео,9.99,19,False
+294,YouTube Premium,Видео,11.99,1,False
+294,Apple Music,Музыка,10.99,19,True
+294,Спортзал,Спорт,35.0,1,True
+294,Telegram Premium,Соцсети,4.99,7,True
+295,Netflix,Видео,12.99,9,True
+295,Spotify,Музыка,10.99,2,True
+295,Спортзал,Спорт,35.0,20,False
+295,ChatGPT Plus,AI-сервисы,20.0,11,True
+295,Microsoft 365,Софт,7.0,1,True
+295,Claude Pro,AI-сервисы,18.0,2,True
+295,Notion Plus,Софт,9.5,13,True
+295,Google One,Облако,1.99,28,True
+296,Apple Music,Музыка,10.99,26,True
+296,Google One,Облако,1.99,27,False
+296,PlayStation Plus,Игры,8.99,10,True
+296,Prime Video,Видео,5.99,24,True
+296,Spotify,Музыка,10.99,4,True
+296,Xbox Game Pass,Игры,14.99,1,False
+296,Duolingo Super,Обучение,12.99,3,False
+296,YouTube Premium,Видео,11.99,1,True
+296,Microsoft 365,Софт,7.0,15,True
+297,Duolingo Super,Обучение,12.99,17,True
+297,HBO Max,Видео,9.99,5,True
+297,ChatGPT Plus,AI-сервисы,20.0,5,True
+297,Discord Nitro,Соцсети,9.99,7,True
+297,Deezer,Музыка,10.99,27,True
+297,Wolt+,Доставка,7.99,20,True
+297,Spotify,Музыка,10.99,8,True
+298,Спортзал,Спорт,17.5,1,True
+298,Prime Video,Видео,5.99,4,False
+298,PlayStation Plus,Игры,8.99,10,True
+298,Netflix,Видео,12.99,2,True
+298,Duolingo Super,Обучение,12.99,26,False
+299,Disney+,Видео,9.99,17,True
+299,PlayStation Plus,Игры,8.99,17,True
+299,Netflix,Видео,12.99,22,False
+299,Notion Plus,Софт,9.5,18,True
+299,Wolt+,Доставка,7.99,3,True
+300,Disney+,Видео,5.0,22,True
+300,iCloud+,Облако,2.99,1,True
+300,Prime Video,Видео,5.99,1,True
+300,Spotify,Музыка,10.99,7,True
+300,GitHub Copilot,AI-сервисы,10.0,21,True
+301,Discord Nitro,Соцсети,9.99,28,True
+301,Wolt+,Доставка,7.99,22,True
+301,Telegram Premium,Соцсети,4.99,4,True
+301,ChatGPT Plus,AI-сервисы,20.0,7,True
+301,Netflix,Видео,12.99,20,True
+301,Duolingo Super,Обучение,12.99,1,True
+302,Telegram Premium,Соцсети,4.99,13,True
+302,Discord Nitro,Соцсети,9.99,4,True
+302,HBO Max,Видео,5.0,7,True
+302,iCloud+,Облако,2.99,14,True
+302,Notion Plus,Софт,9.5,21,False
+302,ChatGPT Plus,AI-сервисы,20.0,22,True
+303,Microsoft 365,Софт,7.0,26,False
+303,iCloud+,Облако,1.5,22,True
+303,ChatGPT Plus,AI-сервисы,20.0,3,True
+303,Netflix,Видео,6.5,25,True
+303,Notion Plus,Софт,4.75,11,True
+304,Спортзал,Спорт,17.5,18,True
+304,Microsoft 365,Софт,3.5,10,False
+304,Spotify,Музыка,10.99,19,True
+304,Telegram Premium,Соцсети,4.99,15,False
+305,Netflix,Видео,12.99,21,True
+305,Discord Nitro,Соцсети,9.99,1,True
+305,HBO Max,Видео,9.99,7,True
+305,Google One,Облако,1.99,20,True
+305,iCloud+,Облако,2.99,23,True
+305,ChatGPT Plus,AI-сервисы,10.0,2,True
+306,Spotify,Музыка,10.99,23,True
+306,Disney+,Видео,9.99,10,False
+306,Claude Pro,AI-сервисы,18.0,18,True
+306,ChatGPT Plus,AI-сервисы,20.0,4,True
+306,GitHub Copilot,AI-сервисы,10.0,6,True
+306,Спортзал,Спорт,35.0,10,True
+306,iCloud+,Облако,2.99,16,True
+306,Microsoft 365,Софт,7.0,27,True
+306,Discord Nitro,Соцсети,9.99,19,True
+307,Bolt Food+,Доставка,5.99,14,True
+307,Microsoft 365,Софт,3.5,10,False
+307,iCloud+,Облако,1.5,16,True
+307,ChatGPT Plus,AI-сервисы,20.0,7,False
+307,Duolingo Super,Обучение,12.99,13,True
+308,iCloud+,Облако,2.99,16,True
+308,Prime Video,Видео,5.99,11,True
+308,Apple Music,Музыка,10.99,25,False
+308,Спортзал,Спорт,35.0,6,False
+308,Spotify,Музыка,10.99,5,True
+308,Telegram Premium,Соцсети,4.99,28,True
+308,Xbox Game Pass,Игры,14.99,6,True
+308,YouTube Premium,Видео,11.99,17,True
+308,Disney+,Видео,9.99,7,True
+309,Спортзал,Спорт,35.0,16,True
+309,Microsoft 365,Софт,7.0,13,True
+309,Google One,Облако,1.99,21,True
+309,Netflix,Видео,12.99,7,True
+309,Disney+,Видео,9.99,13,True
+309,YouTube Premium,Видео,11.99,14,True
+309,Bolt Food+,Доставка,5.99,5,True
+309,Prime Video,Видео,5.99,12,True
+309,PlayStation Plus,Игры,8.99,11,True
+309,Dropbox,Облако,11.99,24,True
+309,HBO Max,Видео,9.99,26,True
+309,iCloud+,Облако,2.99,23,False
+309,Xbox Game Pass,Игры,14.99,15,False
+310,Wolt+,Доставка,4.0,16,True
+310,Strava,Спорт,4.0,1,True
+310,ChatGPT Plus,AI-сервисы,10.0,3,False
+310,iCloud+,Облако,2.99,5,True
+310,Google One,Облако,1.99,15,True
+310,Spotify,Музыка,5.5,13,False
+310,PlayStation Plus,Игры,8.99,18,True
+310,GitHub Copilot,AI-сервисы,5.0,9,True
+311,Netflix,Видео,12.99,10,True
+311,Duolingo Super,Обучение,12.99,24,False
+311,Prime Video,Видео,5.99,25,True
+311,Adobe CC,Софт,24.99,22,False
+312,PlayStation Plus,Игры,8.99,14,True
+312,ChatGPT Plus,AI-сервисы,20.0,7,True
+312,HBO Max,Видео,9.99,20,True
+312,Спортзал,Спорт,17.5,4,True
+312,GitHub Copilot,AI-сервисы,5.0,1,True
+313,iCloud+,Облако,2.99,22,True
+313,Discord Nitro,Соцсети,9.99,7,True
+313,Google One,Облако,1.99,6,True
+313,Spotify,Музыка,10.99,25,True
+313,Duolingo Super,Обучение,12.99,23,False
+313,Disney+,Видео,9.99,1,True
+313,Notion Plus,Софт,9.5,24,True
+313,YouTube Premium,Видео,11.99,13,True
+313,Microsoft 365,Софт,7.0,2,True
+313,GitHub Copilot,AI-сервисы,10.0,18,True
+314,ChatGPT Plus,AI-сервисы,20.0,24,True
+314,iCloud+,Облако,2.99,14,True
+314,Netflix,Видео,12.99,9,False
+314,Strava,Спорт,7.99,7,False
+314,Spotify,Музыка,10.99,7,True
+314,YouTube Premium,Видео,11.99,28,True
+314,Microsoft 365,Софт,7.0,9,True
+314,Disney+,Видео,9.99,4,True
+314,Deezer,Музыка,10.99,20,True
+314,Discord Nitro,Соцсети,9.99,23,True
+314,Prime Video,Видео,5.99,15,True
+314,Duolingo Super,Обучение,12.99,12,True
+315,Wolt+,Доставка,7.99,24,True
+316,Google One,Облако,1.99,27,True
+316,Netflix,Видео,12.99,21,True
+316,Disney+,Видео,9.99,23,True
+316,Duolingo Super,Обучение,12.99,18,True
+317,Microsoft 365,Софт,7.0,28,True
+317,Netflix,Видео,12.99,8,True
+317,Duolingo Super,Обучение,6.5,16,False
+317,Spotify,Музыка,10.99,21,True
+318,Prime Video,Видео,5.99,23,True
+318,Notion Plus,Софт,9.5,5,False
+318,YouTube Premium,Видео,11.99,12,False
+318,Netflix,Видео,12.99,5,True
+318,HBO Max,Видео,9.99,20,True
+318,PlayStation Plus,Игры,8.99,6,True
+318,Disney+,Видео,9.99,25,True
+319,Netflix,Видео,12.99,18,True
+319,ChatGPT Plus,AI-сервисы,20.0,6,True
+319,Microsoft 365,Софт,3.5,11,True
+320,Adobe CC,Софт,24.99,24,True
+320,Bolt Food+,Доставка,5.99,26,False
+321,PlayStation Plus,Игры,4.5,15,False
+321,Apple Music,Музыка,10.99,3,True
+322,Telegram Premium,Соцсети,4.99,26,False
+322,Disney+,Видео,9.99,8,True
+323,Spotify,Музыка,10.99,22,True
+323,Prime Video,Видео,5.99,2,True
+323,Microsoft 365,Софт,7.0,19,False
+324,Microsoft 365,Софт,7.0,16,True
+324,YouTube Premium,Видео,11.99,17,False
+324,Google One,Облако,1.99,5,True
+324,Spotify,Музыка,10.99,28,True
+324,iCloud+,Облако,2.99,6,False
+324,ChatGPT Plus,AI-сервисы,20.0,23,True
+324,Netflix,Видео,12.99,23,False
+324,Спортзал,Спорт,35.0,20,True
+324,HBO Max,Видео,9.99,7,False
+325,Prime Video,Видео,5.99,9,True
+325,Google One,Облако,1.99,20,True
+325,iCloud+,Облако,2.99,6,True
+325,Netflix,Видео,12.99,4,True
+325,Wolt+,Доставка,7.99,7,True
+325,Discord Nitro,Соцсети,9.99,13,True
+326,Wolt+,Доставка,4.0,18,True
+326,Spotify,Музыка,10.99,23,True
+326,Dropbox,Облако,6.0,4,False
+327,Apple Music,Музыка,10.99,23,True
+327,ChatGPT Plus,AI-сервисы,20.0,16,True
+327,Spotify,Музыка,10.99,6,False
+327,Disney+,Видео,9.99,11,True
+327,Google One,Облако,1.99,5,True
+328,Duolingo Super,Обучение,6.5,2,True
+328,Disney+,Видео,5.0,6,True
+328,Spotify,Музыка,10.99,19,True
+328,Wolt+,Доставка,7.99,19,False
+328,Prime Video,Видео,5.99,28,True
+329,Netflix,Видео,12.99,18,True
+329,PlayStation Plus,Игры,8.99,8,False
+329,ChatGPT Plus,AI-сервисы,20.0,17,True
+329,Adobe CC,Софт,24.99,9,True
+329,Disney+,Видео,9.99,3,True
+329,Telegram Premium,Соцсети,4.99,15,True
+329,Bolt Food+,Доставка,5.99,5,True
+330,Disney+,Видео,9.99,4,True
+330,Google One,Облако,1.99,23,True
+330,Microsoft 365,Софт,3.5,19,True
+330,Xbox Game Pass,Игры,14.99,8,True
+330,Netflix,Видео,12.99,11,True
+330,Bolt Food+,Доставка,5.99,13,True
+330,YouTube Premium,Видео,11.99,1,True
+330,Prime Video,Видео,5.99,13,True
+331,Спортзал,Спорт,17.5,26,True
+332,Discord Nitro,Соцсети,9.99,3,False
+332,Spotify,Музыка,10.99,2,True
+332,YouTube Premium,Видео,11.99,9,True
+332,iCloud+,Облако,2.99,2,True
+333,Spotify,Музыка,10.99,5,True
+333,Microsoft 365,Софт,7.0,8,True
+333,HBO Max,Видео,9.99,2,False
+333,Prime Video,Видео,5.99,20,False
+333,PlayStation Plus,Игры,8.99,17,True
+333,YouTube Premium,Видео,11.99,16,True
+333,Duolingo Super,Обучение,12.99,7,True
+333,Xbox Game Pass,Игры,14.99,18,False
+333,Спортзал,Спорт,35.0,9,True
+334,Spotify,Музыка,10.99,23,False
+334,Apple Music,Музыка,5.5,12,True
+334,Netflix,Видео,12.99,23,True
+334,ChatGPT Plus,AI-сервисы,20.0,13,True
+334,iCloud+,Облако,2.99,21,True
+334,Nintendo Online,Игры,2.0,13,True
+334,Duolingo Super,Обучение,12.99,15,False
+335,Prime Video,Видео,5.99,11,True
+335,Spotify,Музыка,5.5,23,True
+336,Prime Video,Видео,5.99,9,False
+336,Spotify,Музыка,10.99,4,True
+336,ChatGPT Plus,AI-сервисы,10.0,18,True
+336,Claude Pro,AI-сервисы,18.0,19,True
+336,Telegram Premium,Соцсети,4.99,10,True
+336,PlayStation Plus,Игры,8.99,6,True
+336,Notion Plus,Софт,9.5,6,False
+336,Xbox Game Pass,Игры,14.99,9,True
+337,Nintendo Online,Игры,3.99,28,True
+337,YouTube Premium,Видео,11.99,5,True
+337,Netflix,Видео,12.99,12,True
+337,Midjourney,AI-сервисы,5.0,10,True
+337,iCloud+,Облако,1.5,7,True
+337,Wolt+,Доставка,4.0,6,True
+337,Duolingo Super,Обучение,12.99,25,True
+338,Strava,Спорт,7.99,27,False
+338,ChatGPT Plus,AI-сервисы,20.0,11,True
+338,Adobe CC,Софт,24.99,14,True
+338,iCloud+,Облако,2.99,22,True
+339,Telegram Premium,Соцсети,4.99,23,True
+339,ChatGPT Plus,AI-сервисы,10.0,1,True
+339,GitHub Copilot,AI-сервисы,10.0,21,True
+340,Dropbox,Облако,6.0,24,True
+340,Google One,Облако,1.99,27,True
+340,YouTube Premium,Видео,11.99,6,True
+341,Xbox Game Pass,Игры,14.99,17,True
+341,Spotify,Музыка,10.99,28,True
+341,GitHub Copilot,AI-сервисы,5.0,28,True
+341,Netflix,Видео,6.5,5,True
+341,YouTube Premium,Видео,6.0,13,True
+342,Notion Plus,Софт,9.5,27,True
+342,Спортзал,Спорт,17.5,16,True
+342,ChatGPT Plus,AI-сервисы,10.0,26,False
+342,Spotify,Музыка,10.99,8,True
+342,Deezer,Музыка,10.99,3,True
+343,Microsoft 365,Софт,3.5,11,True
+343,Deezer,Музыка,10.99,17,True
+343,HBO Max,Видео,9.99,14,False
+343,Claude Pro,AI-сервисы,18.0,14,True
+344,Wolt+,Доставка,4.0,8,True
+344,Dropbox,Облако,11.99,23,True
+345,Netflix,Видео,12.99,20,False
+345,Telegram Premium,Соцсети,4.99,2,True
+345,iCloud+,Облако,2.99,13,True
+345,Disney+,Видео,9.99,27,True
+345,ChatGPT Plus,AI-сервисы,20.0,5,True
+345,Спортзал,Спорт,35.0,1,True
+346,Apple Music,Музыка,10.99,15,True
+346,PlayStation Plus,Игры,8.99,26,False
+346,Telegram Premium,Соцсети,2.5,22,True
+346,iCloud+,Облако,2.99,5,True
+347,iCloud+,Облако,2.99,8,True
+347,Discord Nitro,Соцсети,9.99,27,True
+347,HBO Max,Видео,9.99,19,True
+347,Google One,Облако,1.99,23,True
+347,ChatGPT Plus,AI-сервисы,20.0,21,True
+347,Disney+,Видео,9.99,3,True
+348,Discord Nitro,Соцсети,9.99,28,True
+348,Google One,Облако,1.99,9,True
+349,Microsoft 365,Софт,7.0,20,True
+349,YouTube Premium,Видео,11.99,13,True
+349,iCloud+,Облако,2.99,28,True
+349,Deezer,Музыка,10.99,14,True
+349,Spotify,Музыка,10.99,21,True
+349,PlayStation Plus,Игры,8.99,2,True
+349,Strava,Спорт,7.99,18,True
+349,Telegram Premium,Соцсети,4.99,5,True
+350,Duolingo Super,Обучение,12.99,25,False
+350,ChatGPT Plus,AI-сервисы,20.0,15,True
+350,Discord Nitro,Соцсети,9.99,9,False
+350,YouTube Premium,Видео,11.99,19,False
+350,Spotify,Музыка,10.99,3,True
+350,PlayStation Plus,Игры,8.99,25,True
+350,Coursera Plus,Обучение,49.0,9,True
+350,Claude Pro,AI-сервисы,18.0,6,True
+350,Telegram Premium,Соцсети,4.99,17,True
+350,Wolt+,Доставка,7.99,17,True
+350,Microsoft 365,Софт,7.0,3,True
+351,Claude Pro,AI-сервисы,18.0,15,True
+351,Google One,Облако,1.99,22,True
+351,Microsoft 365,Софт,7.0,16,True
+351,Adobe CC,Софт,24.99,6,True
+351,Telegram Premium,Соцсети,4.99,24,True
+351,ChatGPT Plus,AI-сервисы,20.0,23,True
+351,YouTube Premium,Видео,11.99,5,True
+351,Xbox Game Pass,Игры,14.99,4,True
+351,Disney+,Видео,9.99,15,True
+352,Nintendo Online,Игры,3.99,5,True
+352,Wolt+,Доставка,7.99,15,False
+352,Spotify,Музыка,10.99,23,True
+352,Claude Pro,AI-сервисы,18.0,22,True
+352,Apple Music,Музыка,5.5,12,True
+352,ChatGPT Plus,AI-сервисы,10.0,16,True
+352,Duolingo Super,Обучение,12.99,6,True
+353,Telegram Premium,Соцсети,2.5,20,True
+353,Netflix,Видео,12.99,12,True
+353,Spotify,Музыка,10.99,21,True
+353,ChatGPT Plus,AI-сервисы,20.0,28,True
+353,Xbox Game Pass,Игры,14.99,7,True
+354,Prime Video,Видео,5.99,23,True
+354,Google One,Облако,1.99,19,True
+354,Netflix,Видео,12.99,3,False
+354,iCloud+,Облако,2.99,1,True
+354,Spotify,Музыка,10.99,21,True
+354,Strava,Спорт,7.99,28,False
+354,Claude Pro,AI-сервисы,18.0,27,False
+354,Duolingo Super,Обучение,12.99,17,False
+355,PlayStation Plus,Игры,8.99,25,True
+355,Spotify,Музыка,10.99,4,True
+355,Netflix,Видео,12.99,22,True
+356,Telegram Premium,Соцсети,4.99,7,True
+356,Spotify,Музыка,10.99,16,True
+356,HBO Max,Видео,9.99,6,True
+356,iCloud+,Облако,2.99,10,True
+356,Netflix,Видео,12.99,7,False
+356,PlayStation Plus,Игры,8.99,24,True
+356,Bolt Food+,Доставка,5.99,11,True
+356,Claude Pro,AI-сервисы,18.0,26,True
+356,Disney+,Видео,9.99,22,True
+356,Microsoft 365,Софт,7.0,24,True
+356,ChatGPT Plus,AI-сервисы,20.0,21,False
+357,Disney+,Видео,9.99,28,True
+357,Spotify,Музыка,10.99,7,True
+357,ChatGPT Plus,AI-сервисы,20.0,18,True
+358,iCloud+,Облако,2.99,18,True
+358,Xbox Game Pass,Игры,14.99,26,True
+358,Duolingo Super,Обучение,12.99,4,False
+358,Apple Music,Музыка,10.99,8,True
+358,Spotify,Музыка,10.99,3,True
+358,Disney+,Видео,9.99,15,True
+359,Wolt+,Доставка,7.99,14,False
+359,Prime Video,Видео,5.99,26,True
+359,HBO Max,Видео,9.99,17,True
+359,Bolt Food+,Доставка,5.99,10,True
+359,PlayStation Plus,Игры,8.99,5,False
+359,iCloud+,Облако,2.99,26,True
+359,YouTube Premium,Видео,11.99,7,False
+359,Спортзал,Спорт,35.0,9,True
+359,Google One,Облако,1.99,8,True
+359,ChatGPT Plus,AI-сервисы,20.0,22,True
+359,Microsoft 365,Софт,7.0,21,True
+359,Notion Plus,Софт,9.5,12,True
+359,GitHub Copilot,AI-сервисы,10.0,24,True
+359,Spotify,Музыка,10.99,4,True
+359,Apple Music,Музыка,10.99,22,True
+360,ChatGPT Plus,AI-сервисы,20.0,21,True
+360,YouTube Premium,Видео,11.99,12,True
+360,PlayStation Plus,Игры,8.99,8,True
+360,Спортзал,Спорт,35.0,4,True
+360,Bolt Food+,Доставка,5.99,25,True
+360,Telegram Premium,Соцсети,4.99,13,True
+360,Prime Video,Видео,5.99,13,True
+360,Duolingo Super,Обучение,12.99,14,True
+360,Netflix,Видео,12.99,28,True
+360,Discord Nitro,Соцсети,9.99,3,True
+360,iCloud+,Облако,2.99,8,True
+361,Spotify,Музыка,5.5,4,True
+361,Спортзал,Спорт,17.5,10,False
+361,Netflix,Видео,12.99,26,True
+361,ChatGPT Plus,AI-сервисы,20.0,12,True
+361,iCloud+,Облако,2.99,4,True
+362,iCloud+,Облако,2.99,22,True
+362,Prime Video,Видео,5.99,26,True
+362,PlayStation Plus,Игры,4.5,25,True
+362,Apple Music,Музыка,10.99,2,True
+362,Netflix,Видео,12.99,11,True
+362,Discord Nitro,Соцсети,5.0,9,True
+362,Xbox Game Pass,Игры,14.99,19,False
+362,Disney+,Видео,9.99,28,True
+362,Claude Pro,AI-сервисы,18.0,19,True
+363,Disney+,Видео,9.99,7,True
+363,Bolt Food+,Доставка,5.99,2,True
+363,Telegram Premium,Соцсети,4.99,5,True
+364,Prime Video,Видео,3.0,2,True
+364,Coursera Plus,Обучение,49.0,9,False
+364,HBO Max,Видео,5.0,8,True
+365,ChatGPT Plus,AI-сервисы,10.0,25,True
+365,PlayStation Plus,Игры,8.99,15,True
+365,Спортзал,Спорт,35.0,7,True
+365,Google One,Облако,1.0,9,True
+365,Prime Video,Видео,5.99,17,True
+365,Netflix,Видео,6.5,14,False
+365,Microsoft 365,Софт,3.5,5,True
+366,Disney+,Видео,9.99,15,True
+366,YouTube Premium,Видео,6.0,5,True
+366,Microsoft 365,Софт,3.5,3,True
+366,Deezer,Музыка,10.99,13,True
+366,iCloud+,Облако,1.5,21,True
+366,Telegram Premium,Соцсети,2.5,16,True
+367,GitHub Copilot,AI-сервисы,5.0,23,True
+367,Spotify,Музыка,5.5,2,True
+367,iCloud+,Облако,2.99,21,True
+367,Claude Pro,AI-сервисы,18.0,16,True
+367,Telegram Premium,Соцсети,2.5,11,False
+367,Prime Video,Видео,5.99,4,True
+368,ChatGPT Plus,AI-сервисы,20.0,6,True
+368,Spotify,Музыка,10.99,19,True
+368,YouTube Premium,Видео,11.99,3,True
+369,Dropbox,Облако,6.0,24,True
+369,GitHub Copilot,AI-сервисы,5.0,28,True
+369,Wolt+,Доставка,7.99,12,True
+369,Strava,Спорт,4.0,27,False
+369,Adobe CC,Софт,24.99,7,False
+369,Telegram Premium,Соцсети,4.99,19,True
+369,iCloud+,Облако,2.99,10,True
+370,Prime Video,Видео,3.0,24,True
+370,Claude Pro,AI-сервисы,18.0,5,True
+370,GitHub Copilot,AI-сервисы,10.0,2,True
+370,Google One,Облако,1.0,23,True
+370,Disney+,Видео,5.0,2,True
+370,Apple Music,Музыка,5.5,14,True
+371,Strava,Спорт,7.99,10,False
+371,Netflix,Видео,12.99,4,True
+371,Notion Plus,Софт,9.5,13,True
+371,Spotify,Музыка,10.99,9,True
+371,Google One,Облако,1.99,22,True
+371,Xbox Game Pass,Игры,14.99,20,True
+371,HBO Max,Видео,9.99,15,True
+371,iCloud+,Облако,2.99,20,True
+371,ChatGPT Plus,AI-сервисы,20.0,13,True
+372,Disney+,Видео,9.99,18,True
+372,Netflix,Видео,12.99,15,True
+372,Discord Nitro,Соцсети,9.99,16,False
+372,iCloud+,Облако,1.5,19,True
+372,Спортзал,Спорт,35.0,27,True
+373,Netflix,Видео,12.99,10,True
+373,Spotify,Музыка,10.99,1,True
+373,Telegram Premium,Соцсети,4.99,2,False
+373,PlayStation Plus,Игры,8.99,26,False
+373,iCloud+,Облако,2.99,20,True
+373,Adobe CC,Софт,24.99,12,True
+373,Strava,Спорт,7.99,20,False
+373,ChatGPT Plus,AI-сервисы,20.0,25,True
+373,YouTube Premium,Видео,11.99,22,True
+374,Netflix,Видео,6.5,20,True
+375,Netflix,Видео,12.99,20,True
+375,Disney+,Видео,9.99,15,True
+375,PlayStation Plus,Игры,8.99,23,True
+375,Apple Music,Музыка,10.99,25,True
+375,Wolt+,Доставка,7.99,14,True
+375,iCloud+,Облако,2.99,1,True
+375,ChatGPT Plus,AI-сервисы,20.0,24,True
+376,Microsoft 365,Софт,7.0,15,True
+376,Netflix,Видео,6.5,17,False
+376,Notion Plus,Софт,9.5,8,False
+376,Telegram Premium,Соцсети,4.99,7,True
+376,Xbox Game Pass,Игры,14.99,26,True
+377,Nintendo Online,Игры,3.99,4,True
+377,ChatGPT Plus,AI-сервисы,20.0,13,True
+377,HBO Max,Видео,9.99,20,False
+377,Strava,Спорт,7.99,13,True
+377,Duolingo Super,Обучение,12.99,5,True
+377,Google One,Облако,1.99,13,True
+377,Adobe CC,Софт,24.99,6,True
+378,Microsoft 365,Софт,7.0,9,True
+378,Bolt Food+,Доставка,5.99,26,True
+378,Telegram Premium,Соцсети,2.5,10,True
+378,Prime Video,Видео,5.99,14,False
+378,YouTube Premium,Видео,11.99,26,False
+378,HBO Max,Видео,9.99,8,False
+379,Disney+,Видео,9.99,3,True
+379,Spotify,Музыка,10.99,27,True
+379,Prime Video,Видео,5.99,28,True
+379,Telegram Premium,Соцсети,4.99,6,True
+379,iCloud+,Облако,1.5,7,True
+380,Spotify,Музыка,10.99,21,True
+380,Discord Nitro,Соцсети,9.99,19,True
+380,ChatGPT Plus,AI-сервисы,20.0,5,True
+380,iCloud+,Облако,2.99,1,True
+380,Disney+,Видео,9.99,12,True
+380,PlayStation Plus,Игры,8.99,5,True
+381,Prime Video,Видео,5.99,27,True
+381,Spotify,Музыка,10.99,12,True
+381,Спортзал,Спорт,35.0,25,True
+381,GitHub Copilot,AI-сервисы,10.0,27,True
+382,HBO Max,Видео,9.99,6,True
+382,GitHub Copilot,AI-сервисы,10.0,24,True
+382,YouTube Premium,Видео,11.99,25,True
+382,ChatGPT Plus,AI-сервисы,20.0,5,True
+382,iCloud+,Облако,2.99,17,True
+382,Netflix,Видео,12.99,1,False
+382,Claude Pro,AI-сервисы,18.0,16,True
+382,Xbox Game Pass,Игры,14.99,12,True
+382,Google One,Облако,1.99,2,True
+382,Prime Video,Видео,5.99,28,True
+383,Notion Plus,Софт,9.5,6,True
+383,Spotify,Музыка,10.99,17,True
+383,Disney+,Видео,9.99,14,True
+383,Coursera Plus,Обучение,49.0,2,False
+383,Microsoft 365,Софт,7.0,15,True
+383,YouTube Premium,Видео,11.99,2,True
+383,Google One,Облако,1.99,19,True
+383,iCloud+,Облако,2.99,1,True
+383,Xbox Game Pass,Игры,14.99,6,True
+383,Bolt Food+,Доставка,5.99,15,True
+383,ChatGPT Plus,AI-сервисы,20.0,14,True
+384,Google One,Облако,1.99,27,True
+384,Spotify,Музыка,10.99,19,True
+384,Telegram Premium,Соцсети,4.99,28,True
+384,HBO Max,Видео,9.99,21,True
+384,Duolingo Super,Обучение,12.99,20,False
+385,Netflix,Видео,12.99,25,True
+385,Claude Pro,AI-сервисы,18.0,15,True
+385,Telegram Premium,Соцсети,4.99,22,True
+385,Spotify,Музыка,10.99,1,True
+385,Xbox Game Pass,Игры,14.99,27,True
+385,PlayStation Plus,Игры,8.99,18,True
+385,Disney+,Видео,9.99,15,True
+385,Prime Video,Видео,5.99,14,True
+385,YouTube Premium,Видео,11.99,7,True
+385,ChatGPT Plus,AI-сервисы,20.0,5,False
+385,Duolingo Super,Обучение,12.99,10,False
+385,Google One,Облако,1.99,8,True
+385,GitHub Copilot,AI-сервисы,10.0,6,True
+386,Prime Video,Видео,3.0,13,True
+386,Netflix,Видео,12.99,17,True
+386,Google One,Облако,1.99,25,True
+386,PlayStation Plus,Игры,8.99,12,False
+386,iCloud+,Облако,2.99,8,False
+386,Deezer,Музыка,5.5,14,True
+386,Telegram Premium,Соцсети,4.99,20,False
+386,YouTube Premium,Видео,11.99,5,True
+387,Wolt+,Доставка,7.99,8,True
+387,Discord Nitro,Соцсети,9.99,3,True
+387,Telegram Premium,Соцсети,4.99,24,True
+387,Xbox Game Pass,Игры,7.5,24,True
+387,ChatGPT Plus,AI-сервисы,20.0,25,True
+387,Duolingo Super,Обучение,12.99,22,False
+387,PlayStation Plus,Игры,8.99,21,True
+387,Google One,Облако,1.0,9,True
+387,YouTube Premium,Видео,11.99,6,False
+388,Disney+,Видео,9.99,3,True
+388,Coursera Plus,Обучение,24.5,2,True
+388,Prime Video,Видео,3.0,9,True
+388,Spotify,Музыка,5.5,23,True
+388,YouTube Premium,Видео,11.99,8,True
+388,Duolingo Super,Обучение,6.5,2,True
+388,Google One,Облако,1.0,6,True
+389,Discord Nitro,Соцсети,9.99,8,True
+389,Google One,Облако,1.99,12,True
+389,iCloud+,Облако,2.99,8,True
+389,Apple Music,Музыка,10.99,3,True
+389,Netflix,Видео,12.99,22,True
+390,Netflix,Видео,12.99,2,False
+390,Xbox Game Pass,Игры,14.99,4,True
+390,Google One,Облако,1.99,5,True
+390,Notion Plus,Софт,9.5,20,True
+390,Claude Pro,AI-сервисы,18.0,21,False
+390,Spotify,Музыка,10.99,9,True
+391,ChatGPT Plus,AI-сервисы,20.0,27,True
+391,Спортзал,Спорт,35.0,11,False
+391,iCloud+,Облако,2.99,11,True
+392,iCloud+,Облако,2.99,8,True
+392,Wolt+,Доставка,7.99,25,True
+392,ChatGPT Plus,AI-сервисы,20.0,4,True
+392,YouTube Premium,Видео,6.0,18,False
+393,ChatGPT Plus,AI-сервисы,20.0,14,False
+393,Google One,Облако,1.99,20,True
+393,Xbox Game Pass,Игры,7.5,21,True
+393,Duolingo Super,Обучение,12.99,10,False
+393,YouTube Premium,Видео,6.0,21,True
+394,Telegram Premium,Соцсети,4.99,23,True
+394,Microsoft 365,Софт,7.0,17,True
+394,iCloud+,Облако,2.99,18,True
+394,Claude Pro,AI-сервисы,18.0,27,False
+394,Coursera Plus,Обучение,49.0,11,False
+394,Discord Nitro,Соцсети,9.99,21,True
+395,Google One,Облако,1.99,5,True
+395,Disney+,Видео,9.99,15,True
+395,Duolingo Super,Обучение,12.99,8,False
+395,Netflix,Видео,12.99,16,True
+395,Claude Pro,AI-сервисы,18.0,12,True
+395,Wolt+,Доставка,7.99,13,True
+395,Spotify,Музыка,10.99,16,True
+396,Disney+,Видео,5.0,14,False
+397,Notion Plus,Софт,9.5,2,False
+397,iCloud+,Облако,2.99,19,True
+397,Google One,Облако,1.0,14,True
+397,ChatGPT Plus,AI-сервисы,20.0,10,True
+397,Spotify,Музыка,10.99,5,True
+397,YouTube Premium,Видео,11.99,20,False
+398,Prime Video,Видео,5.99,15,True
+398,Bolt Food+,Доставка,5.99,15,True
+398,Telegram Premium,Соцсети,4.99,20,True
+398,PlayStation Plus,Игры,4.5,25,False
+398,Midjourney,AI-сервисы,5.0,22,False
+399,Netflix,Видео,12.99,12,True
+399,YouTube Premium,Видео,11.99,20,True
+399,Microsoft 365,Софт,7.0,19,True
+399,Disney+,Видео,9.99,23,True
+399,Spotify,Музыка,10.99,2,True
+399,Telegram Premium,Соцсети,4.99,16,True
+400,HBO Max,Видео,9.99,27,True
+400,Disney+,Видео,9.99,19,True
+400,Claude Pro,AI-сервисы,18.0,25,True
+400,Microsoft 365,Софт,7.0,14,True
+400,ChatGPT Plus,AI-сервисы,20.0,16,True
+400,Xbox Game Pass,Игры,14.99,19,True
+400,Deezer,Музыка,10.99,22,True
+400,Spotify,Музыка,10.99,15,True
+401,iCloud+,Облако,2.99,12,True
+401,Spotify,Музыка,5.5,5,True
+401,Dropbox,Облако,11.99,3,True
+402,Google One,Облако,1.99,23,True
+402,Prime Video,Видео,5.99,17,True
+402,ChatGPT Plus,AI-сервисы,20.0,28,True
+402,Спортзал,Спорт,35.0,22,True
+402,Wolt+,Доставка,7.99,6,True
+402,Netflix,Видео,12.99,8,True
+402,iCloud+,Облако,2.99,26,True
+403,HBO Max,Видео,5.0,25,True
+403,iCloud+,Облако,1.5,19,True
+403,Coursera Plus,Обучение,49.0,19,True
+403,Apple Music,Музыка,10.99,25,True
+403,Telegram Premium,Соцсети,4.99,21,True
+403,Netflix,Видео,12.99,23,True
+403,ChatGPT Plus,AI-сервисы,20.0,20,True
+404,Prime Video,Видео,5.99,18,True
+404,Netflix,Видео,6.5,3,True
+404,Xbox Game Pass,Игры,14.99,4,True
+404,Microsoft 365,Софт,7.0,23,False
+405,ChatGPT Plus,AI-сервисы,20.0,5,True
+405,Spotify,Музыка,10.99,7,True
+405,Discord Nitro,Соцсети,5.0,22,True
+405,PlayStation Plus,Игры,4.5,10,False
+405,Nintendo Online,Игры,3.99,10,True
+406,PlayStation Plus,Игры,8.99,11,True
+406,Xbox Game Pass,Игры,14.99,14,True
+407,Spotify,Музыка,10.99,13,True
+407,Midjourney,AI-сервисы,10.0,11,True
+408,Netflix,Видео,12.99,14,True
+408,HBO Max,Видео,5.0,3,True
+408,Spotify,Музыка,10.99,20,True
+408,Nintendo Online,Игры,3.99,7,False
+408,GitHub Copilot,AI-сервисы,10.0,21,False
+408,Duolingo Super,Обучение,6.5,19,False
+409,Adobe CC,Софт,24.99,9,True
+409,HBO Max,Видео,9.99,26,True
+409,Netflix,Видео,12.99,3,True
+409,ChatGPT Plus,AI-сервисы,20.0,14,True
+409,iCloud+,Облако,2.99,8,True
+409,Deezer,Музыка,10.99,25,True
+409,Google One,Облако,1.99,21,True
+409,GitHub Copilot,AI-сервисы,10.0,15,True
+410,Disney+,Видео,9.99,26,True
+410,Google One,Облако,1.99,25,True
+410,Coursera Plus,Обучение,49.0,25,False
+410,Dropbox,Облако,11.99,18,True
+410,Spotify,Музыка,10.99,25,True
+410,Netflix,Видео,12.99,12,True
+410,Claude Pro,AI-сервисы,18.0,9,True
+410,GitHub Copilot,AI-сервисы,10.0,21,True
+410,Telegram Premium,Соцсети,4.99,23,True
+411,Telegram Premium,Соцсети,4.99,12,True
+411,iCloud+,Облако,2.99,22,True
+411,Claude Pro,AI-сервисы,18.0,22,True
+411,Spotify,Музыка,5.5,8,True
+411,Wolt+,Доставка,7.99,23,True
+412,Spotify,Музыка,10.99,14,True
+412,HBO Max,Видео,9.99,27,True
+412,ChatGPT Plus,AI-сервисы,20.0,17,True
+412,YouTube Premium,Видео,11.99,10,True
+412,Telegram Premium,Соцсети,4.99,4,True
+412,Xbox Game Pass,Игры,14.99,6,True
+412,iCloud+,Облако,2.99,17,True
+412,Prime Video,Видео,5.99,20,True
+413,iCloud+,Облако,1.5,9,True
+413,Bolt Food+,Доставка,3.0,18,True
+413,Spotify,Музыка,5.5,21,True
+414,Disney+,Видео,5.0,15,False
+414,Spotify,Музыка,10.99,11,True
+414,Xbox Game Pass,Игры,14.99,13,True
+414,Prime Video,Видео,3.0,18,True
+414,iCloud+,Облако,2.99,25,True
+414,Duolingo Super,Обучение,12.99,12,True
+414,ChatGPT Plus,AI-сервисы,20.0,10,True
+414,HBO Max,Видео,5.0,18,False
+414,Apple Music,Музыка,10.99,17,True
+414,Netflix,Видео,12.99,22,True
+414,Wolt+,Доставка,7.99,12,True
+415,YouTube Premium,Видео,11.99,7,True
+415,Spotify,Музыка,10.99,8,False
+415,Google One,Облако,1.99,14,True
+415,iCloud+,Облако,2.99,11,True
+415,PlayStation Plus,Игры,8.99,21,True
+415,Netflix,Видео,12.99,28,True
+415,Xbox Game Pass,Игры,14.99,17,True
+415,Disney+,Видео,9.99,25,True
+416,HBO Max,Видео,9.99,1,True
+417,Duolingo Super,Обучение,12.99,22,True
+417,Xbox Game Pass,Игры,14.99,9,False
+417,Netflix,Видео,6.5,18,False
+417,Spotify,Музыка,10.99,18,True
+417,HBO Max,Видео,9.99,11,False
+417,Apple Music,Музыка,5.5,21,True
+418,iCloud+,Облако,1.5,27,True
+418,ChatGPT Plus,AI-сервисы,20.0,7,True
+418,Telegram Premium,Соцсети,2.5,2,True
+418,Netflix,Видео,12.99,26,True
+418,Google One,Облако,1.0,25,True
+418,Nintendo Online,Игры,3.99,3,True
+418,Bolt Food+,Доставка,5.99,8,False
+419,Spotify,Музыка,10.99,11,True
+419,Microsoft 365,Софт,7.0,14,True
+419,Спортзал,Спорт,35.0,24,False
+419,Adobe CC,Софт,24.99,6,False
+419,Prime Video,Видео,5.99,18,True
+419,Discord Nitro,Соцсети,9.99,3,True
+420,GitHub Copilot,AI-сервисы,10.0,15,True
+420,Spotify,Музыка,10.99,18,True
+420,Спортзал,Спорт,35.0,15,True
+420,Disney+,Видео,9.99,6,False
+420,iCloud+,Облако,2.99,13,True
+420,Discord Nitro,Соцсети,9.99,3,True
+421,PlayStation Plus,Игры,4.5,14,True
+421,ChatGPT Plus,AI-сервисы,10.0,27,True
+421,Google One,Облако,1.0,11,True
+421,Discord Nitro,Соцсети,9.99,23,True
+421,iCloud+,Облако,1.5,9,True
+421,Claude Pro,AI-сервисы,18.0,4,True
+422,ChatGPT Plus,AI-сервисы,20.0,25,False
+422,Discord Nitro,Соцсети,9.99,19,True
+422,Adobe CC,Софт,24.99,4,False
+422,Netflix,Видео,12.99,23,False
+423,HBO Max,Видео,9.99,26,True
+423,Telegram Premium,Соцсети,4.99,7,True
+423,Deezer,Музыка,10.99,11,True
+423,Microsoft 365,Софт,7.0,9,True
+423,Apple Music,Музыка,10.99,14,True
+424,PlayStation Plus,Игры,8.99,13,True
+424,ChatGPT Plus,AI-сервисы,10.0,20,False
+424,HBO Max,Видео,9.99,2,True
+424,Notion Plus,Софт,4.75,12,True
+425,Bolt Food+,Доставка,5.99,8,True
+425,Netflix,Видео,12.99,17,True
+425,Disney+,Видео,9.99,1,True
+425,Discord Nitro,Соцсети,9.99,1,True
+425,Deezer,Музыка,10.99,4,True
+425,Spotify,Музыка,10.99,2,True
+425,Prime Video,Видео,5.99,25,True
+425,iCloud+,Облако,2.99,5,True
+425,ChatGPT Plus,AI-сервисы,20.0,7,True
+425,Nintendo Online,Игры,3.99,1,True
+425,GitHub Copilot,AI-сервисы,10.0,21,True
+426,PlayStation Plus,Игры,8.99,28,True
+426,GitHub Copilot,AI-сервисы,5.0,1,True
+426,Telegram Premium,Соцсети,4.99,15,True
+426,ChatGPT Plus,AI-сервисы,20.0,21,True
+426,iCloud+,Облако,2.99,22,True
+426,Netflix,Видео,6.5,12,False
+426,Disney+,Видео,5.0,14,False
+427,Xbox Game Pass,Игры,14.99,24,True
+427,Telegram Premium,Соцсети,2.5,1,True
+427,Spotify,Музыка,10.99,13,False
+427,iCloud+,Облако,1.5,27,True
+427,YouTube Premium,Видео,6.0,11,True
+427,Спортзал,Спорт,35.0,22,True
+427,HBO Max,Видео,9.99,14,True
+427,Apple Music,Музыка,10.99,12,True
+428,Wolt+,Доставка,4.0,8,False
+428,Disney+,Видео,9.99,8,True
+428,Adobe CC,Софт,24.99,7,True
+428,Claude Pro,AI-сервисы,18.0,20,False
+429,GitHub Copilot,AI-сервисы,10.0,15,False
+429,Microsoft 365,Софт,3.5,15,True
+429,Discord Nitro,Соцсети,9.99,16,True
+429,Netflix,Видео,12.99,25,True
+429,ChatGPT Plus,AI-сервисы,20.0,21,True
+430,Dropbox,Облако,11.99,19,True
+430,iCloud+,Облако,2.99,4,True
+430,Disney+,Видео,5.0,10,False
+430,Duolingo Super,Обучение,12.99,9,False
+430,Claude Pro,AI-сервисы,9.0,5,True
+430,Xbox Game Pass,Игры,7.5,27,True
+430,PlayStation Plus,Игры,4.5,16,True
+431,Prime Video,Видео,5.99,4,True
+431,Spotify,Музыка,10.99,12,True
+431,HBO Max,Видео,9.99,20,True
+431,iCloud+,Облако,2.99,7,True
+432,Netflix,Видео,6.5,1,False
+432,Spotify,Музыка,10.99,14,True
+432,ChatGPT Plus,AI-сервисы,10.0,20,True
+432,Prime Video,Видео,3.0,22,True
+432,iCloud+,Облако,2.99,10,True
+432,Xbox Game Pass,Игры,7.5,25,False
+432,Microsoft 365,Софт,7.0,1,True
+432,Bolt Food+,Доставка,5.99,3,True
+432,Google One,Облако,1.0,26,True
+432,HBO Max,Видео,9.99,25,True
+432,Strava,Спорт,7.99,13,False
+433,Netflix,Видео,12.99,2,True
+433,Disney+,Видео,9.99,9,True
+434,Disney+,Видео,9.99,9,True
+434,Netflix,Видео,12.99,9,True
+434,Spotify,Музыка,10.99,19,True
+434,Bolt Food+,Доставка,5.99,1,True
+434,Deezer,Музыка,10.99,22,False
+434,Prime Video,Видео,5.99,19,True
+435,Prime Video,Видео,5.99,8,True
+435,Adobe CC,Софт,24.99,15,True
+435,GitHub Copilot,AI-сервисы,10.0,22,False
+435,Wolt+,Доставка,7.99,19,False
+436,Disney+,Видео,9.99,4,True
+436,Google One,Облако,1.0,21,True
+436,YouTube Premium,Видео,6.0,27,True
+436,HBO Max,Видео,5.0,12,True
+437,GitHub Copilot,AI-сервисы,10.0,10,False
+437,Spotify,Музыка,10.99,4,True
+437,YouTube Premium,Видео,11.99,12,True
+437,Telegram Premium,Соцсети,4.99,23,True
+437,ChatGPT Plus,AI-сервисы,10.0,16,True
+437,Microsoft 365,Софт,7.0,8,True
+437,iCloud+,Облако,2.99,2,True
+437,Apple Music,Музыка,5.5,6,True
+438,Xbox Game Pass,Игры,14.99,26,True
+438,Coursera Plus,Обучение,49.0,5,False
+438,Спортзал,Спорт,35.0,4,True
+438,Apple Music,Музыка,10.99,10,True
+438,Disney+,Видео,9.99,1,True
+439,Nintendo Online,Игры,3.99,1,True
+439,Discord Nitro,Соцсети,9.99,4,True
+439,Spotify,Музыка,10.99,8,True
+440,Discord Nitro,Соцсети,9.99,4,False
+440,iCloud+,Облако,2.99,17,True
+440,Prime Video,Видео,3.0,28,False
+440,Spotify,Музыка,10.99,26,True
+440,YouTube Premium,Видео,11.99,7,True
+441,Disney+,Видео,5.0,5,True
+441,Telegram Premium,Соцсети,4.99,28,True
+441,Netflix,Видео,6.5,8,False
+441,Bolt Food+,Доставка,5.99,23,True
+441,Спортзал,Спорт,35.0,3,True
+442,Bolt Food+,Доставка,5.99,6,True
+442,Claude Pro,AI-сервисы,18.0,2,True
+442,Telegram Premium,Соцсети,4.99,3,True
+442,Xbox Game Pass,Игры,14.99,6,True
+442,iCloud+,Облако,2.99,19,False
+442,Netflix,Видео,12.99,28,True
+442,Dropbox,Облако,11.99,25,True
+442,YouTube Premium,Видео,11.99,26,True
+442,Apple Music,Музыка,10.99,9,True
+442,Microsoft 365,Софт,7.0,20,True
+442,PlayStation Plus,Игры,8.99,23,False
+443,Microsoft 365,Софт,3.5,14,True
+443,Claude Pro,AI-сервисы,9.0,7,True
+443,Disney+,Видео,9.99,3,False
+443,Adobe CC,Софт,24.99,4,True
+443,Спортзал,Спорт,17.5,5,False
+444,Google One,Облако,1.99,22,True
+444,YouTube Premium,Видео,11.99,17,True
+444,iCloud+,Облако,2.99,2,True
+444,Спортзал,Спорт,35.0,20,True
+444,ChatGPT Plus,AI-сервисы,20.0,17,True
+444,Telegram Premium,Соцсети,4.99,6,True
+445,Duolingo Super,Обучение,6.5,2,True
+445,Spotify,Музыка,10.99,4,True
+446,Netflix,Видео,6.5,23,True
+446,Microsoft 365,Софт,7.0,4,False
+446,Spotify,Музыка,10.99,16,True
+447,iCloud+,Облако,2.99,25,True
+447,Prime Video,Видео,5.99,13,False
+447,PlayStation Plus,Игры,8.99,9,True
+447,Duolingo Super,Обучение,12.99,12,True
+448,Microsoft 365,Софт,7.0,18,True
+448,YouTube Premium,Видео,11.99,25,True
+448,Spotify,Музыка,10.99,10,True
+448,Спортзал,Спорт,35.0,26,True
+448,ChatGPT Plus,AI-сервисы,20.0,12,True
+448,HBO Max,Видео,9.99,21,True
+448,Claude Pro,AI-сервисы,18.0,25,True
+448,iCloud+,Облако,2.99,17,True
+448,Apple Music,Музыка,10.99,24,True
+448,Duolingo Super,Обучение,12.99,7,True
+448,Nintendo Online,Игры,3.99,12,True
+449,Prime Video,Видео,5.99,7,True
+449,Dropbox,Облако,11.99,1,True
+449,Netflix,Видео,12.99,16,False
+449,ChatGPT Plus,AI-сервисы,10.0,2,True
+449,Disney+,Видео,9.99,18,False
+450,ChatGPT Plus,AI-сервисы,20.0,15,True
+450,Netflix,Видео,12.99,15,True
+450,Prime Video,Видео,5.99,21,False
+450,Adobe CC,Софт,24.99,27,True
+450,Duolingo Super,Обучение,12.99,6,True
+450,Telegram Premium,Соцсети,4.99,24,True
+450,Apple Music,Музыка,10.99,14,True
+450,iCloud+,Облако,2.99,21,True
+450,Disney+,Видео,9.99,11,False
+450,Xbox Game Pass,Игры,14.99,4,True
+451,Notion Plus,Софт,9.5,5,True
+451,Apple Music,Музыка,10.99,22,True
+451,ChatGPT Plus,AI-сервисы,20.0,24,True
+451,iCloud+,Облако,2.99,6,True
+451,Prime Video,Видео,5.99,15,True
+451,YouTube Premium,Видео,11.99,15,True
+452,PlayStation Plus,Игры,8.99,25,True
+452,Xbox Game Pass,Игры,14.99,5,False
+452,GitHub Copilot,AI-сервисы,10.0,25,False
+452,Netflix,Видео,12.99,14,True
+452,Спортзал,Спорт,35.0,18,False
+452,ChatGPT Plus,AI-сервисы,20.0,16,True
+452,Claude Pro,AI-сервисы,18.0,10,True
+452,Spotify,Музыка,10.99,13,True
+453,Adobe CC,Софт,24.99,20,True
+453,Spotify,Музыка,10.99,1,True
+453,PlayStation Plus,Игры,8.99,28,True
+453,Microsoft 365,Софт,7.0,26,True
+453,Telegram Premium,Соцсети,4.99,7,True
+453,Nintendo Online,Игры,3.99,11,False
+453,HBO Max,Видео,9.99,17,False
+453,Netflix,Видео,12.99,25,True
+454,Discord Nitro,Соцсети,9.99,23,True
+454,Spotify,Музыка,10.99,27,True
+454,Спортзал,Спорт,35.0,17,False
+455,iCloud+,Облако,1.5,28,True
+455,Apple Music,Музыка,10.99,10,True
+455,Deezer,Музыка,10.99,14,True
+456,Nintendo Online,Игры,3.99,28,True
+456,Deezer,Музыка,10.99,4,True
+456,iCloud+,Облако,2.99,16,True
+456,Apple Music,Музыка,10.99,16,True
+456,Duolingo Super,Обучение,12.99,25,True
+456,Coursera Plus,Обучение,49.0,1,False
+456,ChatGPT Plus,AI-сервисы,20.0,28,True
+456,PlayStation Plus,Игры,8.99,5,True
+456,Prime Video,Видео,5.99,2,True
+456,Claude Pro,AI-сервисы,18.0,14,True
+456,Telegram Premium,Соцсети,4.99,27,True
+456,Спортзал,Спорт,35.0,6,True
+456,HBO Max,Видео,9.99,2,True
+457,Claude Pro,AI-сервисы,9.0,22,False
+457,ChatGPT Plus,AI-сервисы,20.0,9,True
+457,Spotify,Музыка,10.99,14,True
+457,Apple Music,Музыка,10.99,18,False
+457,iCloud+,Облако,2.99,11,True
+457,GitHub Copilot,AI-сервисы,10.0,28,True
+457,YouTube Premium,Видео,6.0,3,True
+457,Deezer,Музыка,10.99,5,True
+457,Discord Nitro,Соцсети,9.99,9,True
+457,Google One,Облако,1.99,24,True
+458,Claude Pro,AI-сервисы,18.0,14,True
+458,Spotify,Музыка,10.99,27,True
+458,ChatGPT Plus,AI-сервисы,20.0,10,True
+459,Telegram Premium,Соцсети,4.99,13,True
+459,iCloud+,Облако,2.99,13,True
+459,Adobe CC,Софт,24.99,17,True
+459,Apple Music,Музыка,10.99,21,True
+459,Спортзал,Спорт,35.0,15,True
+459,Xbox Game Pass,Игры,14.99,18,True
+460,Discord Nitro,Соцсети,9.99,22,True
+460,Claude Pro,AI-сервисы,9.0,6,True
+460,Netflix,Видео,12.99,13,True
+460,Midjourney,AI-сервисы,5.0,10,True
+460,Adobe CC,Софт,24.99,21,True
+460,iCloud+,Облако,2.99,7,True
+461,Telegram Premium,Соцсети,4.99,28,True
+461,iCloud+,Облако,2.99,1,True
+461,YouTube Premium,Видео,11.99,8,True
+461,Spotify,Музыка,10.99,24,True
+461,Notion Plus,Софт,9.5,18,True
+461,Nintendo Online,Игры,3.99,28,False
+462,Netflix,Видео,12.99,23,True
+462,Discord Nitro,Соцсети,5.0,3,True
+462,Prime Video,Видео,3.0,21,True
+462,ChatGPT Plus,AI-сервисы,10.0,23,True
+462,Dropbox,Облако,6.0,27,True
+463,Dropbox,Облако,11.99,3,True
+463,ChatGPT Plus,AI-сервисы,10.0,22,True
+463,Disney+,Видео,9.99,3,True
+463,Duolingo Super,Обучение,12.99,17,True
+463,PlayStation Plus,Игры,8.99,8,True
+463,iCloud+,Облако,1.5,23,True
+463,YouTube Premium,Видео,11.99,12,False
+463,Spotify,Музыка,5.5,6,True
+463,Apple Music,Музыка,10.99,14,True
+463,Microsoft 365,Софт,7.0,28,True
+463,GitHub Copilot,AI-сервисы,10.0,18,True
+463,Coursera Plus,Обучение,49.0,11,True
+463,Спортзал,Спорт,35.0,10,True
+464,Netflix,Видео,6.5,18,True
+465,Microsoft 365,Софт,7.0,13,True
+465,Bolt Food+,Доставка,3.0,17,True
+465,Netflix,Видео,6.5,22,True
+466,ChatGPT Plus,AI-сервисы,20.0,17,True
+466,Spotify,Музыка,10.99,28,True
+466,Google One,Облако,1.99,10,True
+466,Notion Plus,Софт,9.5,19,True
+466,GitHub Copilot,AI-сервисы,10.0,12,True
+466,iCloud+,Облако,2.99,19,True
+466,Nintendo Online,Игры,3.99,21,True
+466,YouTube Premium,Видео,11.99,20,True
+466,Netflix,Видео,12.99,4,False
+466,Telegram Premium,Соцсети,4.99,8,True
+467,YouTube Premium,Видео,11.99,19,True
+467,Telegram Premium,Соцсети,4.99,12,True
+467,Netflix,Видео,12.99,21,True
+467,Google One,Облако,1.99,16,True
+467,Microsoft 365,Софт,7.0,28,True
+468,PlayStation Plus,Игры,8.99,7,False
+468,Apple Music,Музыка,10.99,18,True
+468,Nintendo Online,Игры,3.99,17,True
+468,Prime Video,Видео,5.99,20,True
+468,Xbox Game Pass,Игры,14.99,23,True
+468,YouTube Premium,Видео,11.99,23,True
+469,HBO Max,Видео,9.99,8,False
+469,Spotify,Музыка,10.99,20,True
+469,Спортзал,Спорт,35.0,19,False
+469,Netflix,Видео,12.99,12,True
+469,YouTube Premium,Видео,11.99,5,True
+469,ChatGPT Plus,AI-сервисы,10.0,2,True
+469,Discord Nitro,Соцсети,9.99,20,True
+469,Google One,Облако,1.0,7,True
+470,Google One,Облако,1.99,6,True
+470,Netflix,Видео,12.99,8,True
+470,YouTube Premium,Видео,11.99,10,True
+470,Spotify,Музыка,10.99,11,True
+470,HBO Max,Видео,9.99,23,True
+470,Telegram Premium,Соцсети,4.99,22,True
+470,Bolt Food+,Доставка,5.99,26,True
+470,Спортзал,Спорт,35.0,17,True
+470,Microsoft 365,Софт,7.0,28,False
+470,Prime Video,Видео,5.99,16,True
+470,Deezer,Музыка,10.99,9,False
+470,ChatGPT Plus,AI-сервисы,20.0,3,False
+470,Apple Music,Музыка,10.99,21,True
+471,Xbox Game Pass,Игры,14.99,18,False
+471,Disney+,Видео,5.0,3,True
+471,Spotify,Музыка,10.99,13,True
+471,Wolt+,Доставка,7.99,19,True
+471,Bolt Food+,Доставка,5.99,9,True
+471,Prime Video,Видео,5.99,19,True
+471,iCloud+,Облако,2.99,7,True
+471,HBO Max,Видео,5.0,26,True
+472,Spotify,Музыка,10.99,25,True
+472,Discord Nitro,Соцсети,9.99,10,True
+472,Netflix,Видео,12.99,21,True
+472,Apple Music,Музыка,10.99,19,True
+472,Duolingo Super,Обучение,12.99,22,True
+472,ChatGPT Plus,AI-сервисы,20.0,19,True
+472,Disney+,Видео,9.99,14,False
+472,PlayStation Plus,Игры,8.99,24,False
+473,Adobe CC,Софт,24.99,8,True
+473,Microsoft 365,Софт,3.5,10,True
+473,Xbox Game Pass,Игры,14.99,6,True
+473,Google One,Облако,1.0,15,True
+473,YouTube Premium,Видео,6.0,27,True
+473,ChatGPT Plus,AI-сервисы,10.0,4,True
+473,Netflix,Видео,6.5,9,True
+473,Prime Video,Видео,5.99,13,False
+474,Telegram Premium,Соцсети,4.99,23,False
+474,PlayStation Plus,Игры,8.99,13,True
+474,Disney+,Видео,9.99,10,True
+474,Discord Nitro,Соцсети,9.99,28,True
+474,Claude Pro,AI-сервисы,18.0,6,True
+474,iCloud+,Облако,2.99,20,True
+474,Bolt Food+,Доставка,5.99,6,True
+474,Xbox Game Pass,Игры,14.99,18,False
+474,Google One,Облако,1.99,15,True
+474,Netflix,Видео,12.99,22,False
+474,HBO Max,Видео,9.99,10,True
+475,PlayStation Plus,Игры,8.99,15,True
+475,Spotify,Музыка,10.99,24,True
+475,Duolingo Super,Обучение,12.99,22,True
+475,GitHub Copilot,AI-сервисы,10.0,24,True
+475,Apple Music,Музыка,10.99,23,True
+475,Telegram Premium,Соцсети,4.99,12,True
+476,iCloud+,Облако,2.99,27,True
+476,Prime Video,Видео,5.99,20,True
+476,HBO Max,Видео,9.99,23,True
+476,Telegram Premium,Соцсети,4.99,24,False
+476,Netflix,Видео,12.99,11,True
+476,GitHub Copilot,AI-сервисы,10.0,7,True
+476,Deezer,Музыка,10.99,24,False
+477,Discord Nitro,Соцсети,5.0,12,False
+477,Google One,Облако,1.99,13,True
+477,Netflix,Видео,12.99,24,True
+477,PlayStation Plus,Игры,8.99,2,True
+477,Spotify,Музыка,10.99,11,True
+477,Duolingo Super,Обучение,12.99,22,False
+477,iCloud+,Облако,2.99,26,True
+477,YouTube Premium,Видео,11.99,12,True
+477,Strava,Спорт,4.0,17,True
+477,Prime Video,Видео,5.99,12,True
+477,Спортзал,Спорт,35.0,11,False
+478,Google One,Облако,1.0,18,True
+478,Duolingo Super,Обучение,12.99,18,False
+478,PlayStation Plus,Игры,4.5,18,True
+479,iCloud+,Облако,1.5,17,True
+480,Telegram Premium,Соцсети,4.99,12,True
+480,Netflix,Видео,12.99,20,True
+480,YouTube Premium,Видео,11.99,14,True
+481,Google One,Облако,1.99,26,True
+481,Discord Nitro,Соцсети,9.99,10,True
+481,ChatGPT Plus,AI-сервисы,20.0,9,True
+481,YouTube Premium,Видео,11.99,3,True
+482,Deezer,Музыка,10.99,1,True
+482,Prime Video,Видео,3.0,19,False
+482,YouTube Premium,Видео,6.0,24,True
+482,Xbox Game Pass,Игры,7.5,25,True
+482,Claude Pro,AI-сервисы,18.0,2,True
+482,Discord Nitro,Соцсети,9.99,3,True
+483,Spotify,Музыка,10.99,21,True
+483,Microsoft 365,Софт,7.0,23,True
+483,Prime Video,Видео,5.99,23,True
+483,YouTube Premium,Видео,6.0,24,True
+483,Netflix,Видео,12.99,7,True
+483,Bolt Food+,Доставка,5.99,26,False
+483,iCloud+,Облако,2.99,22,True
+483,Telegram Premium,Соцсети,4.99,18,True
+484,Microsoft 365,Софт,7.0,5,True
+484,Apple Music,Музыка,10.99,8,True
+484,YouTube Premium,Видео,11.99,27,True
+484,Spotify,Музыка,10.99,23,True
+484,Telegram Premium,Соцсети,4.99,5,True
+484,GitHub Copilot,AI-сервисы,10.0,6,True
+485,Google One,Облако,1.99,4,True
+485,Microsoft 365,Софт,7.0,3,True
+485,Claude Pro,AI-сервисы,18.0,20,False
+485,Disney+,Видео,9.99,10,True
+485,Prime Video,Видео,5.99,27,True
+485,Adobe CC,Софт,24.99,15,True
+485,Netflix,Видео,12.99,11,True
+485,ChatGPT Plus,AI-сервисы,20.0,23,False
+485,Telegram Premium,Соцсети,2.5,20,True
+486,Microsoft 365,Софт,7.0,5,True
+486,Disney+,Видео,9.99,16,True
+487,iCloud+,Облако,2.99,16,True
+487,Spotify,Музыка,10.99,6,True
+487,Dropbox,Облако,11.99,18,True
+487,Prime Video,Видео,3.0,4,True
+487,Telegram Premium,Соцсети,4.99,19,True
+487,Bolt Food+,Доставка,5.99,24,True
+488,iCloud+,Облако,2.99,21,True
+488,Disney+,Видео,5.0,6,True
+488,Telegram Premium,Соцсети,4.99,14,False
+488,GitHub Copilot,AI-сервисы,10.0,23,True
+489,Спортзал,Спорт,35.0,16,True
+489,Strava,Спорт,4.0,23,True
+489,Spotify,Музыка,10.99,23,True
+489,Netflix,Видео,12.99,23,False
+490,Microsoft 365,Софт,7.0,19,True
+490,Spotify,Музыка,10.99,23,True
+490,Netflix,Видео,12.99,16,True
+490,iCloud+,Облако,2.99,13,False
+490,Prime Video,Видео,5.99,20,True
+490,Claude Pro,AI-сервисы,18.0,7,False
+491,Apple Music,Музыка,10.99,22,True
+491,Google One,Облако,1.99,20,True
+491,Telegram Premium,Соцсети,4.99,22,True
+491,Prime Video,Видео,5.99,9,True
+492,Duolingo Super,Обучение,12.99,7,False
+492,YouTube Premium,Видео,11.99,26,True
+492,Telegram Premium,Соцсети,4.99,19,True
+492,Xbox Game Pass,Игры,14.99,17,False
+492,Microsoft 365,Софт,7.0,2,True
+492,Spotify,Музыка,10.99,27,True
+493,Disney+,Видео,9.99,7,True
+493,Spotify,Музыка,10.99,14,True
+493,Спортзал,Спорт,35.0,1,False
+493,Midjourney,AI-сервисы,10.0,28,False
+494,Спортзал,Спорт,35.0,11,True
+494,Disney+,Видео,9.99,4,False
+494,Telegram Premium,Соцсети,4.99,20,True
+494,ChatGPT Plus,AI-сервисы,20.0,7,True
+494,Duolingo Super,Обучение,12.99,15,True
+494,YouTube Premium,Видео,11.99,12,True
+494,iCloud+,Облако,2.99,3,True
+494,Notion Plus,Софт,9.5,9,True
+494,HBO Max,Видео,9.99,15,True
+494,Prime Video,Видео,5.99,11,True
+494,Netflix,Видео,12.99,23,True
+495,YouTube Premium,Видео,11.99,8,False
+495,iCloud+,Облако,1.5,16,False
+495,Spotify,Музыка,10.99,2,True
+495,Adobe CC,Софт,24.99,26,True
+496,ChatGPT Plus,AI-сервисы,20.0,12,True
+496,Netflix,Видео,12.99,7,True
+496,Spotify,Музыка,10.99,26,True
+496,Xbox Game Pass,Игры,14.99,25,True
+496,Adobe CC,Софт,24.99,9,True
+496,Claude Pro,AI-сервисы,18.0,14,True
+496,Coursera Plus,Обучение,49.0,2,True
+497,iCloud+,Облако,1.5,10,True
+497,Prime Video,Видео,5.99,9,False
+497,Google One,Облако,1.99,26,True
+497,YouTube Premium,Видео,11.99,17,True
+497,Claude Pro,AI-сервисы,18.0,9,False
+498,ChatGPT Plus,AI-сервисы,20.0,11,False
+498,Discord Nitro,Соцсети,9.99,3,True
+498,Spotify,Музыка,10.99,25,False
+498,Netflix,Видео,12.99,27,True
+498,Xbox Game Pass,Игры,14.99,19,True
+498,HBO Max,Видео,5.0,14,True
+499,Microsoft 365,Софт,7.0,22,True
+499,YouTube Premium,Видео,11.99,22,False
+499,HBO Max,Видео,9.99,8,True
+499,Спортзал,Спорт,35.0,2,True
+499,Telegram Premium,Соцсети,4.99,4,False
+499,Spotify,Музыка,10.99,4,True
+499,Apple Music,Музыка,10.99,16,True
+499,Claude Pro,AI-сервисы,18.0,12,True
+499,PlayStation Plus,Игры,8.99,6,True
+500,YouTube Premium,Видео,11.99,11,True
+500,Discord Nitro,Соцсети,5.0,20,True
+500,Google One,Облако,1.99,27,True
+501,Spotify,Музыка,10.99,16,True
+501,Netflix,Видео,6.5,22,True
+501,Google One,Облако,1.99,10,True
+501,Wolt+,Доставка,7.99,18,True
+501,Apple Music,Музыка,10.99,13,True
+501,Disney+,Видео,9.99,9,True
+501,PlayStation Plus,Игры,4.5,26,True
+502,Duolingo Super,Обучение,12.99,8,True
+502,Nintendo Online,Игры,3.99,7,False
+502,PlayStation Plus,Игры,8.99,18,True
+502,Deezer,Музыка,10.99,2,True
+502,Google One,Облако,1.99,13,True
+502,Xbox Game Pass,Игры,14.99,26,True
+502,GitHub Copilot,AI-сервисы,10.0,15,True
+503,Claude Pro,AI-сервисы,18.0,17,True
+503,Netflix,Видео,12.99,3,True
+503,Prime Video,Видео,5.99,19,False
+503,PlayStation Plus,Игры,8.99,23,True
+503,YouTube Premium,Видео,11.99,21,False
+503,Telegram Premium,Соцсети,4.99,16,True
+504,ChatGPT Plus,AI-сервисы,20.0,19,False
+504,Prime Video,Видео,5.99,5,True
+504,iCloud+,Облако,2.99,15,False
+504,Dropbox,Облако,11.99,8,True
+505,Google One,Облако,1.99,12,True
+505,Duolingo Super,Обучение,12.99,25,True
+505,Spotify,Музыка,10.99,7,True
+505,Dropbox,Облако,11.99,21,True
+505,iCloud+,Облако,2.99,4,True
+506,Netflix,Видео,12.99,5,True
+506,Google One,Облако,1.99,6,True
+506,Prime Video,Видео,5.99,16,True
+506,Telegram Premium,Соцсети,4.99,28,True
+506,PlayStation Plus,Игры,8.99,7,True
+506,Bolt Food+,Доставка,5.99,24,False
+506,iCloud+,Облако,2.99,8,True
+506,Спортзал,Спорт,35.0,15,False
+507,Спортзал,Спорт,35.0,19,False
+507,Spotify,Музыка,10.99,1,True
+507,Bolt Food+,Доставка,5.99,23,True
+507,Netflix,Видео,12.99,26,True
+508,Bolt Food+,Доставка,5.99,18,True
+508,ChatGPT Plus,AI-сервисы,20.0,19,True
+508,Duolingo Super,Обучение,12.99,4,False
+508,Google One,Облако,1.99,25,True
+508,Spotify,Музыка,10.99,8,True
+508,YouTube Premium,Видео,11.99,7,True
+508,Microsoft 365,Софт,7.0,5,True
+509,Disney+,Видео,9.99,22,True
+509,iCloud+,Облако,2.99,8,True
+509,PlayStation Plus,Игры,8.99,19,True
+509,Apple Music,Музыка,10.99,11,True
+509,Netflix,Видео,12.99,28,True
+509,Telegram Premium,Соцсети,4.99,9,False
+509,GitHub Copilot,AI-сервисы,10.0,28,True
+509,Claude Pro,AI-сервисы,18.0,14,True
+509,Spotify,Музыка,10.99,15,True
+509,YouTube Premium,Видео,11.99,1,True
+510,GitHub Copilot,AI-сервисы,10.0,17,True
+510,Netflix,Видео,12.99,1,True
+510,Wolt+,Доставка,7.99,20,True
+510,Spotify,Музыка,10.99,4,True
+511,Netflix,Видео,12.99,20,True
+511,HBO Max,Видео,9.99,1,True
+511,Xbox Game Pass,Игры,14.99,6,True
+511,Google One,Облако,1.99,17,True
+511,Spotify,Музыка,10.99,11,True
+511,Bolt Food+,Доставка,3.0,21,True
+511,YouTube Premium,Видео,11.99,28,True
+511,Telegram Premium,Соцсети,2.5,17,True
+512,HBO Max,Видео,5.0,17,True
+512,Wolt+,Доставка,7.99,8,True
+512,Спортзал,Спорт,35.0,26,False
+512,Apple Music,Музыка,10.99,1,True
+513,Спортзал,Спорт,35.0,27,True
+513,YouTube Premium,Видео,11.99,28,True
+513,Xbox Game Pass,Игры,7.5,25,True
+513,Bolt Food+,Доставка,5.99,9,True
+514,Netflix,Видео,12.99,10,False
+514,GitHub Copilot,AI-сервисы,10.0,6,False
+514,YouTube Premium,Видео,11.99,11,True
+514,Spotify,Музыка,10.99,16,True
+514,Adobe CC,Софт,24.99,18,False
+514,Спортзал,Спорт,35.0,25,False
+515,Netflix,Видео,12.99,1,True
+515,Strava,Спорт,7.99,8,False
+515,Spotify,Музыка,5.5,23,False
+515,Notion Plus,Софт,4.75,8,True
+515,iCloud+,Облако,2.99,20,True
+515,Duolingo Super,Обучение,6.5,16,True
+515,HBO Max,Видео,9.99,5,True
+516,Google One,Облако,1.99,1,True
+516,Spotify,Музыка,5.5,25,True
+516,PlayStation Plus,Игры,4.5,7,True
+516,Claude Pro,AI-сервисы,9.0,20,True
+516,iCloud+,Облако,1.5,7,True
+517,Prime Video,Видео,5.99,6,True
+517,Netflix,Видео,12.99,7,False
+517,YouTube Premium,Видео,6.0,20,True
+517,Strava,Спорт,7.99,20,False
+517,Telegram Premium,Соцсети,4.99,7,True
+517,iCloud+,Облако,2.99,19,True
+517,Duolingo Super,Обучение,12.99,22,True
+517,ChatGPT Plus,AI-сервисы,20.0,18,True
+518,Telegram Premium,Соцсети,4.99,7,True
+518,Google One,Облако,1.99,16,True
+518,Claude Pro,AI-сервисы,18.0,20,True
+518,Spotify,Музыка,10.99,9,True
+518,Notion Plus,Софт,9.5,26,True
+518,Duolingo Super,Обучение,12.99,25,True
+519,Netflix,Видео,12.99,3,True
+519,ChatGPT Plus,AI-сервисы,20.0,3,False
+519,Claude Pro,AI-сервисы,9.0,2,True
+519,Spotify,Музыка,10.99,20,True
+520,Спортзал,Спорт,17.5,9,True
+520,Spotify,Музыка,10.99,17,True
+520,ChatGPT Plus,AI-сервисы,20.0,14,True
+521,Wolt+,Доставка,7.99,26,False
+521,Спортзал,Спорт,35.0,23,True
+521,Telegram Premium,Соцсети,4.99,23,True
+521,Spotify,Музыка,10.99,21,True
+521,Strava,Спорт,7.99,11,True
+521,Netflix,Видео,12.99,18,False
+522,YouTube Premium,Видео,11.99,10,True
+522,HBO Max,Видео,9.99,26,True
+522,Prime Video,Видео,5.99,1,False
+522,Deezer,Музыка,10.99,7,True
+522,Midjourney,AI-сервисы,10.0,18,False
+522,iCloud+,Облако,2.99,3,True
+522,Adobe CC,Софт,24.99,21,True
+522,Spotify,Музыка,10.99,23,True
+523,Netflix,Видео,12.99,26,True
+523,YouTube Premium,Видео,11.99,4,True
+523,Google One,Облако,1.0,8,True
+523,Telegram Premium,Соцсети,2.5,18,True
+523,Спортзал,Спорт,35.0,9,True
+523,Disney+,Видео,9.99,11,True
+523,Spotify,Музыка,10.99,10,False
+523,Wolt+,Доставка,7.99,15,True
+524,Wolt+,Доставка,7.99,10,False
+524,Notion Plus,Софт,9.5,24,False
+524,Prime Video,Видео,5.99,20,True
+524,YouTube Premium,Видео,11.99,25,False
+524,Adobe CC,Софт,12.5,12,True
+524,HBO Max,Видео,5.0,15,True
+524,Claude Pro,AI-сервисы,18.0,22,False
+525,Microsoft 365,Софт,7.0,11,True
+525,Strava,Спорт,4.0,19,True
+525,Netflix,Видео,12.99,6,True
+526,Duolingo Super,Обучение,12.99,19,False
+526,PlayStation Plus,Игры,8.99,8,True
+526,Claude Pro,AI-сервисы,18.0,23,False
+526,iCloud+,Облако,1.5,27,True
+526,Netflix,Видео,6.5,26,True
+526,GitHub Copilot,AI-сервисы,10.0,13,True
+527,Google One,Облако,1.99,20,True
+527,YouTube Premium,Видео,11.99,4,True
+527,GitHub Copilot,AI-сервисы,10.0,15,False
+527,iCloud+,Облако,2.99,18,True
+527,Dropbox,Облако,11.99,19,True
+527,Disney+,Видео,9.99,11,False
+527,Spotify,Музыка,10.99,18,False
+527,Спортзал,Спорт,35.0,10,True
+527,Telegram Premium,Соцсети,4.99,24,True
+527,Discord Nitro,Соцсети,9.99,3,True
+527,Deezer,Музыка,10.99,1,True
+528,ChatGPT Plus,AI-сервисы,20.0,10,True
+528,GitHub Copilot,AI-сервисы,10.0,15,True
+528,Spotify,Музыка,10.99,5,True
+528,Apple Music,Музыка,10.99,1,False
+528,Dropbox,Облако,11.99,10,True
+528,Microsoft 365,Софт,7.0,26,True
+528,Nintendo Online,Игры,3.99,25,False
+529,Notion Plus,Софт,9.5,14,True
+529,Spotify,Музыка,10.99,11,True
+529,Discord Nitro,Соцсети,9.99,27,True
+529,iCloud+,Облако,2.99,14,True
+529,GitHub Copilot,AI-сервисы,10.0,14,True
+529,ChatGPT Plus,AI-сервисы,20.0,20,True
+529,Telegram Premium,Соцсети,4.99,4,True
+529,Claude Pro,AI-сервисы,18.0,25,True
+529,YouTube Premium,Видео,11.99,18,True
+530,Deezer,Музыка,10.99,22,True
+530,Spotify,Музыка,5.5,9,True
+530,Notion Plus,Софт,9.5,22,True
+530,Prime Video,Видео,5.99,24,False
+530,Discord Nitro,Соцсети,9.99,21,True
+530,HBO Max,Видео,9.99,10,True
+530,Dropbox,Облако,11.99,8,True
+531,Discord Nitro,Соцсети,9.99,11,False
+531,iCloud+,Облако,2.99,22,True
+531,Prime Video,Видео,5.99,19,False
+531,Bolt Food+,Доставка,5.99,6,True
+531,Спортзал,Спорт,35.0,21,True
+531,Google One,Облако,1.99,14,True
+531,Wolt+,Доставка,7.99,8,True
+531,GitHub Copilot,AI-сервисы,10.0,28,False
+531,Deezer,Музыка,10.99,4,True
+531,Apple Music,Музыка,10.99,26,True
+532,Google One,Облако,1.99,13,True
+532,iCloud+,Облако,2.99,5,True
+532,ChatGPT Plus,AI-сервисы,20.0,27,True
+533,YouTube Premium,Видео,11.99,27,True
+533,Wolt+,Доставка,4.0,14,True
+533,GitHub Copilot,AI-сервисы,5.0,8,True
+533,Spotify,Музыка,10.99,22,True
+533,Microsoft 365,Софт,3.5,4,True
+533,Спортзал,Спорт,17.5,15,False
+534,Notion Plus,Софт,9.5,19,True
+534,Spotify,Музыка,10.99,23,True
+534,Netflix,Видео,12.99,1,True
+534,Claude Pro,AI-сервисы,18.0,5,True
+534,Telegram Premium,Соцсети,4.99,23,True
+534,Microsoft 365,Софт,7.0,21,True
+534,YouTube Premium,Видео,11.99,20,True
+535,Google One,Облако,1.0,24,True
+535,YouTube Premium,Видео,11.99,11,True
+535,Strava,Спорт,7.99,4,False
+535,Spotify,Музыка,10.99,21,True
+536,iCloud+,Облако,2.99,2,False
+536,YouTube Premium,Видео,11.99,5,False
+536,Netflix,Видео,12.99,23,False
+537,Discord Nitro,Соцсети,9.99,25,True
+537,Bolt Food+,Доставка,5.99,18,False
+537,Spotify,Музыка,10.99,20,True
+537,Telegram Premium,Соцсети,4.99,15,False
+537,GitHub Copilot,AI-сервисы,10.0,7,True
+537,YouTube Premium,Видео,11.99,14,True
+537,Duolingo Super,Обучение,12.99,8,False
+538,Duolingo Super,Обучение,12.99,13,False
+538,Disney+,Видео,9.99,3,False
+538,Telegram Premium,Соцсети,4.99,26,True
+538,iCloud+,Облако,2.99,11,True
+538,Microsoft 365,Софт,7.0,27,True
+538,ChatGPT Plus,AI-сервисы,20.0,14,True
+538,HBO Max,Видео,9.99,11,True
+538,Discord Nitro,Соцсети,9.99,5,True
+538,Strava,Спорт,7.99,17,True
+539,Discord Nitro,Соцсети,9.99,28,True
+539,ChatGPT Plus,AI-сервисы,20.0,3,True
+539,Спортзал,Спорт,35.0,18,True
+539,HBO Max,Видео,9.99,27,True
+540,iCloud+,Облако,2.99,18,True
+540,Spotify,Музыка,10.99,21,True
+540,PlayStation Plus,Игры,8.99,26,True
+540,Google One,Облако,1.99,16,True
+540,GitHub Copilot,AI-сервисы,10.0,2,True
+540,Claude Pro,AI-сервисы,18.0,3,True
+541,Google One,Облако,1.99,7,True
+541,Microsoft 365,Софт,7.0,7,True
+541,Netflix,Видео,12.99,2,True
+541,Disney+,Видео,9.99,13,True
+541,iCloud+,Облако,2.99,26,True
+541,Spotify,Музыка,10.99,17,True
+541,YouTube Premium,Видео,11.99,5,True
+542,Спортзал,Спорт,35.0,25,False
+542,Adobe CC,Софт,24.99,26,True
+542,iCloud+,Облако,2.99,21,True
+542,Dropbox,Облако,11.99,28,True
+542,Discord Nitro,Соцсети,9.99,26,True
+543,Microsoft 365,Софт,7.0,2,True
+543,Spotify,Музыка,10.99,22,True
+543,ChatGPT Plus,AI-сервисы,20.0,2,False
+543,Xbox Game Pass,Игры,14.99,18,True
+543,Discord Nitro,Соцсети,9.99,1,True
+543,Disney+,Видео,9.99,7,True
+543,Netflix,Видео,12.99,22,False
+543,YouTube Premium,Видео,11.99,23,True
+544,Strava,Спорт,7.99,11,False
+544,PlayStation Plus,Игры,4.5,9,True
+544,Netflix,Видео,12.99,9,True
+544,Xbox Game Pass,Игры,14.99,28,True
+544,Apple Music,Музыка,10.99,3,True
+545,iCloud+,Облако,2.99,23,True
+545,Microsoft 365,Софт,7.0,26,True
+545,Spotify,Музыка,10.99,13,True
+545,HBO Max,Видео,9.99,16,True
+546,YouTube Premium,Видео,6.0,9,True
+547,Spotify,Музыка,10.99,8,True
+547,iCloud+,Облако,2.99,17,True
+547,Google One,Облако,1.99,16,True
+548,Disney+,Видео,9.99,11,True
+548,Claude Pro,AI-сервисы,18.0,11,False
+548,Telegram Premium,Соцсети,4.99,12,True
+548,Спортзал,Спорт,35.0,28,False
+548,PlayStation Plus,Игры,8.99,28,False
+548,Spotify,Музыка,10.99,2,True
+548,Microsoft 365,Софт,7.0,7,True
+549,Netflix,Видео,6.5,23,True
+549,Спортзал,Спорт,17.5,15,True
+549,Coursera Plus,Обучение,49.0,14,True
+549,HBO Max,Видео,5.0,9,False
+549,iCloud+,Облако,2.99,2,True
+549,Google One,Облако,1.0,24,True
+549,YouTube Premium,Видео,11.99,15,True
+550,iCloud+,Облако,2.99,26,True
+550,Adobe CC,Софт,24.99,16,True
+551,Microsoft 365,Софт,7.0,13,True
+551,ChatGPT Plus,AI-сервисы,20.0,18,True
+551,Netflix,Видео,12.99,14,False
+551,iCloud+,Облако,2.99,12,True
+551,Spotify,Музыка,10.99,26,True
+552,Disney+,Видео,5.0,25,True
+552,Wolt+,Доставка,7.99,27,True
+552,Prime Video,Видео,5.99,2,True
+553,Microsoft 365,Софт,7.0,25,False
+553,Duolingo Super,Обучение,12.99,21,True
+553,Spotify,Музыка,10.99,25,False
+553,iCloud+,Облако,2.99,13,True
+553,Bolt Food+,Доставка,5.99,17,True
+553,Xbox Game Pass,Игры,14.99,18,True
+553,Adobe CC,Софт,24.99,2,True
+553,Wolt+,Доставка,7.99,15,True
+554,Netflix,Видео,12.99,25,False
+554,Спортзал,Спорт,17.5,25,True
+554,Disney+,Видео,5.0,24,True
+554,YouTube Premium,Видео,11.99,27,True
+554,Spotify,Музыка,5.5,23,True
+554,Duolingo Super,Обучение,6.5,25,True
+554,ChatGPT Plus,AI-сервисы,20.0,1,True
+555,Duolingo Super,Обучение,12.99,15,False
+555,Disney+,Видео,9.99,17,True
+555,PlayStation Plus,Игры,8.99,26,True
+555,Apple Music,Музыка,10.99,1,True
+555,Spotify,Музыка,10.99,2,True
+555,ChatGPT Plus,AI-сервисы,20.0,24,False
+556,Microsoft 365,Софт,7.0,4,True
+556,iCloud+,Облако,1.5,16,True
+556,Prime Video,Видео,3.0,5,True
+556,ChatGPT Plus,AI-сервисы,20.0,10,False
+557,Spotify,Музыка,10.99,11,True
+557,Prime Video,Видео,5.99,6,True
+557,Duolingo Super,Обучение,12.99,19,True
+557,ChatGPT Plus,AI-сервисы,20.0,21,True
+557,Google One,Облако,1.99,20,True
+557,Strava,Спорт,7.99,20,True
+558,Apple Music,Музыка,10.99,19,True
+558,Discord Nitro,Соцсети,5.0,23,True
+558,Google One,Облако,1.99,14,True
+559,Spotify,Музыка,10.99,17,False
+559,Telegram Premium,Соцсети,4.99,27,True
+560,Notion Plus,Софт,9.5,6,True
+560,Disney+,Видео,9.99,11,True
+561,ChatGPT Plus,AI-сервисы,20.0,13,True
+561,iCloud+,Облако,2.99,27,True
+561,Claude Pro,AI-сервисы,18.0,9,True
+562,Duolingo Super,Обучение,12.99,26,False
+562,Bolt Food+,Доставка,3.0,13,True
+562,YouTube Premium,Видео,6.0,10,True
+562,Spotify,Музыка,5.5,6,True
+562,iCloud+,Облако,2.99,26,True
+562,Adobe CC,Софт,12.5,8,True
+563,Spotify,Музыка,10.99,7,True
+563,iCloud+,Облако,2.99,4,True
+564,Netflix,Видео,12.99,27,True
+564,Notion Plus,Софт,9.5,6,True
+564,Google One,Облако,1.99,13,True
+565,PlayStation Plus,Игры,8.99,21,True
+565,Google One,Облако,1.99,14,False
+565,Bolt Food+,Доставка,5.99,24,True
+565,iCloud+,Облако,2.99,6,True
+565,Apple Music,Музыка,10.99,24,True
+565,Netflix,Видео,12.99,27,True
+565,Xbox Game Pass,Игры,14.99,7,True
+566,ChatGPT Plus,AI-сервисы,20.0,21,False
+566,YouTube Premium,Видео,11.99,4,True
+566,Telegram Premium,Соцсети,4.99,16,True
+567,Disney+,Видео,9.99,1,True
+567,Spotify,Музыка,5.5,28,True
+567,Microsoft 365,Софт,3.5,2,True
+568,Спортзал,Спорт,17.5,16,True
+568,Netflix,Видео,12.99,26,True
+569,Bolt Food+,Доставка,5.99,28,True
+569,Spotify,Музыка,10.99,16,True
+569,Google One,Облако,1.0,6,True
+569,Claude Pro,AI-сервисы,18.0,17,False
+569,Nintendo Online,Игры,3.99,26,True
+570,iCloud+,Облако,2.99,12,True
+570,Spotify,Музыка,10.99,17,True
+570,Xbox Game Pass,Игры,7.5,15,True
+570,Prime Video,Видео,5.99,1,True
+570,Telegram Premium,Соцсети,4.99,23,True
+570,Netflix,Видео,12.99,18,True
+571,Telegram Premium,Соцсети,4.99,19,True
+571,Duolingo Super,Обучение,12.99,24,False
+571,HBO Max,Видео,9.99,9,True
+572,Netflix,Видео,12.99,11,False
+572,Microsoft 365,Софт,7.0,15,True
+572,YouTube Premium,Видео,11.99,18,True
+573,Google One,Облако,1.99,23,True
+573,ChatGPT Plus,AI-сервисы,20.0,19,False
+573,HBO Max,Видео,9.99,28,False
+574,Claude Pro,AI-сервисы,9.0,16,False
+574,iCloud+,Облако,2.99,15,True
+574,Prime Video,Видео,5.99,4,True
+574,Disney+,Видео,5.0,11,True
+575,Discord Nitro,Соцсети,9.99,24,True
+575,PlayStation Plus,Игры,8.99,25,True
+575,Bolt Food+,Доставка,5.99,15,True
+576,Spotify,Музыка,10.99,14,True
+576,ChatGPT Plus,AI-сервисы,10.0,11,False
+576,Telegram Premium,Соцсети,4.99,17,True
+576,Netflix,Видео,12.99,4,False
+576,Duolingo Super,Обучение,6.5,28,False
+576,YouTube Premium,Видео,11.99,13,True
+576,Adobe CC,Софт,24.99,13,True
+576,HBO Max,Видео,5.0,12,True
+577,Telegram Premium,Соцсети,4.99,26,True
+577,Spotify,Музыка,10.99,18,True
+577,Netflix,Видео,12.99,14,True
+577,Bolt Food+,Доставка,3.0,2,False
+577,iCloud+,Облако,2.99,24,True
+577,Google One,Облако,1.0,13,True
+578,PlayStation Plus,Игры,8.99,1,False
+578,Spotify,Музыка,5.5,22,True
+578,Prime Video,Видео,5.99,16,False
+578,Bolt Food+,Доставка,5.99,20,True
+578,Wolt+,Доставка,4.0,18,True
+578,GitHub Copilot,AI-сервисы,10.0,5,True
+579,Netflix,Видео,12.99,13,True
+579,Google One,Облако,1.0,25,True
+579,GitHub Copilot,AI-сервисы,10.0,26,True
+579,Спортзал,Спорт,17.5,3,True
+579,ChatGPT Plus,AI-сервисы,20.0,8,True
+579,YouTube Premium,Видео,6.0,15,True
+579,Spotify,Музыка,10.99,6,True
+580,Spotify,Музыка,10.99,24,True
+580,YouTube Premium,Видео,11.99,26,True
+581,Discord Nitro,Соцсети,9.99,11,True
+581,iCloud+,Облако,2.99,26,True
+581,Google One,Облако,1.99,1,True
+581,Prime Video,Видео,5.99,15,True
+581,ChatGPT Plus,AI-сервисы,20.0,2,True
+581,Apple Music,Музыка,10.99,5,True
+581,Xbox Game Pass,Игры,14.99,2,False
+581,HBO Max,Видео,9.99,18,True
+581,Notion Plus,Софт,9.5,17,False
+582,Claude Pro,AI-сервисы,18.0,12,True
+582,Dropbox,Облако,11.99,3,True
+582,Prime Video,Видео,5.99,20,True
+582,Duolingo Super,Обучение,12.99,23,False
+582,Spotify,Музыка,10.99,23,True
+582,Telegram Premium,Соцсети,4.99,26,True
+583,Спортзал,Спорт,35.0,26,False
+583,Disney+,Видео,9.99,9,True
+583,Midjourney,AI-сервисы,10.0,1,True
+583,ChatGPT Plus,AI-сервисы,20.0,14,True
+584,Telegram Premium,Соцсети,4.99,4,False
+584,ChatGPT Plus,AI-сервисы,20.0,18,True
+584,GitHub Copilot,AI-сервисы,10.0,5,True
+584,Bolt Food+,Доставка,3.0,21,True
+584,Disney+,Видео,9.99,23,True
+585,Bolt Food+,Доставка,5.99,9,True
+585,Prime Video,Видео,5.99,24,True
+585,GitHub Copilot,AI-сервисы,10.0,4,True
+585,YouTube Premium,Видео,11.99,7,True
+585,Xbox Game Pass,Игры,14.99,22,True
+585,ChatGPT Plus,AI-сервисы,20.0,22,False
+585,Telegram Premium,Соцсети,4.99,18,True
+585,iCloud+,Облако,2.99,28,True
+585,Netflix,Видео,12.99,27,True
+585,Spotify,Музыка,10.99,27,True
+586,Microsoft 365,Софт,7.0,13,True
+586,Спортзал,Спорт,35.0,18,True
+586,Google One,Облако,1.99,19,True
+586,Bolt Food+,Доставка,5.99,24,False
+586,YouTube Premium,Видео,11.99,8,True
+586,Wolt+,Доставка,7.99,25,True
+586,GitHub Copilot,AI-сервисы,10.0,1,True
+587,ChatGPT Plus,AI-сервисы,20.0,17,True
+587,YouTube Premium,Видео,11.99,17,True
+587,Telegram Premium,Соцсети,2.5,24,True
+587,Microsoft 365,Софт,7.0,17,True
+587,Claude Pro,AI-сервисы,9.0,17,True
+587,Netflix,Видео,12.99,20,True
+587,Dropbox,Облако,6.0,28,True
+587,Спортзал,Спорт,35.0,9,False
+588,Google One,Облако,1.99,15,False
+588,iCloud+,Облако,2.99,4,True
+588,Спортзал,Спорт,35.0,24,False
+588,Spotify,Музыка,10.99,13,True
+588,Wolt+,Доставка,7.99,6,True
+589,ChatGPT Plus,AI-сервисы,20.0,9,True
+589,Midjourney,AI-сервисы,10.0,25,True
+589,Prime Video,Видео,5.99,25,True
+589,Wolt+,Доставка,7.99,22,True
+589,Microsoft 365,Софт,7.0,26,True
+589,Google One,Облако,1.99,12,True
+589,Strava,Спорт,7.99,21,False
+589,PlayStation Plus,Игры,8.99,7,True
+589,YouTube Premium,Видео,11.99,2,True
+590,Prime Video,Видео,3.0,20,True
+590,Netflix,Видео,12.99,15,True
+590,Spotify,Музыка,10.99,14,True
+590,YouTube Premium,Видео,6.0,16,False
+590,Apple Music,Музыка,10.99,19,True
+590,Nintendo Online,Игры,3.99,5,True
+590,PlayStation Plus,Игры,8.99,12,True
+590,Dropbox,Облако,11.99,18,True
+591,Spotify,Музыка,10.99,24,True
+591,Duolingo Super,Обучение,12.99,18,True
+591,Bolt Food+,Доставка,5.99,22,True
+591,ChatGPT Plus,AI-сервисы,20.0,17,False
+591,Discord Nitro,Соцсети,9.99,28,True
+592,ChatGPT Plus,AI-сервисы,20.0,26,True
+592,Discord Nitro,Соцсети,9.99,27,True
+593,ChatGPT Plus,AI-сервисы,20.0,24,True
+593,Spotify,Музыка,5.5,9,False
+593,Netflix,Видео,12.99,28,True
+593,Microsoft 365,Софт,3.5,26,False
+593,Disney+,Видео,5.0,17,True
+594,Notion Plus,Софт,9.5,6,False
+594,Claude Pro,AI-сервисы,9.0,21,True
+594,Telegram Premium,Соцсети,4.99,14,True
+594,Netflix,Видео,12.99,18,True
+595,HBO Max,Видео,9.99,14,True
+595,iCloud+,Облако,2.99,8,True
+595,Microsoft 365,Софт,7.0,13,True
+595,Spotify,Музыка,10.99,8,True
+595,GitHub Copilot,AI-сервисы,5.0,20,True
+595,Apple Music,Музыка,5.5,26,True
+595,Telegram Premium,Соцсети,2.5,7,True
+596,Microsoft 365,Софт,7.0,27,True
+596,Midjourney,AI-сервисы,5.0,1,True
+596,Apple Music,Музыка,5.5,23,True
+596,Notion Plus,Софт,4.75,18,True
+596,Spotify,Музыка,10.99,15,True
+597,PlayStation Plus,Игры,8.99,10,True
+597,Netflix,Видео,6.5,19,True
+598,Telegram Premium,Соцсети,2.5,6,True
+598,Apple Music,Музыка,10.99,9,True
+598,Bolt Food+,Доставка,5.99,1,True
+599,Netflix,Видео,12.99,19,True
+599,Prime Video,Видео,5.99,28,True
+599,YouTube Premium,Видео,11.99,12,False
+599,Google One,Облако,1.99,10,True
+599,Disney+,Видео,9.99,11,True
+599,PlayStation Plus,Игры,8.99,28,True
+599,Spotify,Музыка,10.99,10,False
+600,Спортзал,Спорт,17.5,1,False
+600,Spotify,Музыка,10.99,7,True
+600,Telegram Premium,Соцсети,4.99,26,True
+600,Discord Nitro,Соцсети,9.99,13,True
